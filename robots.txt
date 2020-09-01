@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://johntelford.github.io/techtalkJohnBlog/sitemap.xml
