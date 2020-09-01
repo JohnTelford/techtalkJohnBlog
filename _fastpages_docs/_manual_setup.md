@@ -16,7 +16,7 @@ These are the setup steps that are automated by [setup.yaml](.github/workflows/s
 
       to
 
-    `![](https://github.com/{your-username}/{your-repo-name}/workflows/CI/badge.svg)`
+    `![](https://github.com/{johntelford}/{techtalkJohnBlog}/workflows/CI/badge.svg)`
 
 6. Change `baseurl:` in `_config.yaml` to the name of your repository. For example, instead of 
 
@@ -24,7 +24,7 @@ These are the setup steps that are automated by [setup.yaml](.github/workflows/s
 
     this should be
 
-    `baseurl: "/your-repo-name"`
+    `baseurl: "/techtalkJohnBlog"`
 
 7. Similarly, change the `url:` parameter in `_config.yaml` to the url your blog will be served on.  For example, instead of
 
@@ -32,7 +32,7 @@ These are the setup steps that are automated by [setup.yaml](.github/workflows/s
 
     this should be 
 
-    `url: "https://<your-user-name>.github.io"`
+    `url: "https://<johntelford>.github.io"`
 
 8. Read through `_config.yaml` carefully as there may be other options that must be set.  The comments in this file will provide instructions. 
 
