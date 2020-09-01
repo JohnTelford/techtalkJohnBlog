@@ -1,4 +1,4 @@
-Hello :wave: @{_username_}!  Thank you for using fastpages!  
+qHello :wave: @{_username_}!  Thank you for using fastpages!  
 
 ## Before you merge this PR
 
@@ -26,7 +26,7 @@ If you are not using a custom domain, your website will appear at:
 
 1. After merging this PR, add a file named `CNAME` at the root of your repo.  For example, the `fastpages` blog is hosted at `https://fastpages.fast.ai`, which means [our CNAME](https://github.com/fastai/fastpages/blob/master/CNAME) contains the following contents: 
 
-        
+   
     >`fastpages.fast.ai`
 
 
