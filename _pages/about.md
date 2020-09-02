@@ -35,8 +35,6 @@ The few technologies that are well into the Plateau of Productivity stage of the
 
 # Author
 
-Checking out what’s new or not, what’s real or not, or what’s new and improved, in the computer and electronic industries, is something like panning for gold. Buried within the mountains of info rubble produced daily by the industries, every so often one finds nuggets making the effort worthwhile.
-
 I am an Electronics and Software Engineer specializing in web architecture, development, deployment, and maintenancess
 
 
