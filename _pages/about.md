@@ -3,7 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+
  # Blog
+ 
  This is an opinionated technology blog
 
 The Internet has been a part my life since its early days. Since then I have decades of hands-on experience  with some of the ever changing Internet technologies,  and a passion pursuing what’s new and improved within the computer and electronic industries
