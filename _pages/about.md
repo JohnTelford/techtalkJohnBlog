@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
- # Blog
- 
+
  This is an opinionated technology blog
 
 The Internet has been a part my life since its early days. Since then I have decades of hands-on experience  with some of the ever changing Internet technologies,  and a passion pursuing what’s new and improved within the computer and electronic industries
 
 Checking out what’s new or not, what’s real or not, or what’s new and improved, in the computer and electronic industries, is something like panning for gold. Buried within the mountains of info rubble produced daily by the industries, every so often one finds nuggets making the effort worthwhile.
 
-These industries are probably the fastest changing endeavors mankind has ever created. The half life of many computer and electronic products making it to market are relatively short. There are some very short lived ones, some that were just vapor. 
+These industries are probably the fastest changing endeavors mankind has ever created. The half life of many computer and electronic products making it to market are relatively short. There are some very short lived ones and some that were just vapor. 
 
 The Hype Cycle helps separating fiction and reality.
 
