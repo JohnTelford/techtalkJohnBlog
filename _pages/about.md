@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
- ## Blog
+ # Blog
  This is an opinionated technology blog
 
 The Internet has been a part my life since its early days. Since then I have decades of hands-on experience  with some of the ever changing Internet technologies,  and a passion pursuing what’s new and improved within the computer and electronic industries
@@ -33,7 +33,7 @@ Mainstream adoption starts to take off.
 
 The few technologies that are well into the Plateau of Productivity stage of the hype cycle  may be experience the spiral of death by actions of creators
 
-## Author
+# Author
 
 Checking out what’s new or not, what’s real or not, or what’s new and improved, in the computer and electronic industries, is something like panning for gold. Buried within the mountains of info rubble produced daily by the industries, every so often one finds nuggets making the effort worthwhile.
 
