@@ -1,1 +1,1 @@
-Sitemap: https://johntelford.github.io/techtalkJohnBlog/sitemap.xml
+Sitemap: /techtalkJohnBlog/sitemap.xml

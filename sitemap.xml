@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://johntelford.github.io/techtalkJohnBlog/markdown/2020/09/02/TEST2.html</loc>
+<loc>/techtalkJohnBlog/markdown/2020/09/02/TEST2.html</loc>
 <lastmod>2020-09-02T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://johntelford.github.io/techtalkJohnBlog/about/</loc>
+<loc>/techtalkJohnBlog/about/</loc>
 </url>
 <url>
-<loc>https://johntelford.github.io/techtalkJohnBlog/</loc>
+<loc>/techtalkJohnBlog/</loc>
 </url>
 <url>
-<loc>https://johntelford.github.io/techtalkJohnBlog/search/</loc>
+<loc>/techtalkJohnBlog/search/</loc>
 </url>
 <url>
-<loc>https://johntelford.github.io/techtalkJohnBlog/categories/</loc>
+<loc>/techtalkJohnBlog/categories/</loc>
 </url>
 </urlset>
