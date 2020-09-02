@@ -4,10 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+The Internet has been a part my life since its early days. Since then I have decades of hands-on experience the with some of the ever changing Internet technologies,  and a passion pursuing what’s new and improved within the computer and electronic industries.
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+I am an Electronics Engineer specializing in web architecture development, deployment, maintenancess
 
 
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
