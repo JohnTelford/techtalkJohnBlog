@@ -37,10 +37,10 @@ github_username: "JohnTelford"
 baseurl: "/techtalkJohnBlog" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
-#minima:
+minima:
 #  social_links:
 #   twitter: fastdotai
-# github: fastai
+github: fastai
 
 # Set this to true to get LaTeX math equation support
 use_math: false
