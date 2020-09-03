@@ -46,7 +46,6 @@ I am an Electronics and Software Engineer specializing in web architecture, deve
 <br>
 <br>
 <br>
-<br>
 John at johntelford dot com  
 Portland, Oregon 
 
