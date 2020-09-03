@@ -14,6 +14,7 @@ These industries are probably the fastest changing endeavors mankind has ever cr
 
 The Hype Cycle helps separate fiction and reality.
 
+
 ![](images/HypeCycle.png)
 
 - Technology Trigger  
