@@ -16,6 +16,8 @@ The Hype Cycle helps separate fiction and reality.
 
 
 ![](images/HypeCycle.png)
+[](images/HypeCycle.png)
+
 
 - Technology Trigger  
 
