@@ -20,7 +20,6 @@ The Hype Cycle helps separate fiction and reality.
 
 
 - Technology Trigger  
-
 A potential technology breakthrough happens.
 
 - Peak of Inflated Expectations   
