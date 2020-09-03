@@ -42,7 +42,9 @@ I am an Electronics and Software Engineer specializing in web architecture, deve
 
 ## Contact
 
-<img align="left" src="{{site.baseurl}}/images/mugShot.png" /> <br>
+<p>
+<img align="left" src="{{site.baseurl}}/images/mugShot.png" /> 
+</p>
 
 John at johntelford dot com  
 Portland, Oregon 
