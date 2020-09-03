@@ -11,7 +11,7 @@ The Internet has been a part my life since its early days. I have decades of han
 
 Checking out what’s new or not, what’s real or not, or what’s new and improved,  is something like panning for gold. Buried within the mountains of info rubble produced daily, every so often one finds nuggets making the effort worthwhile.
 
-These industries are probably the fastest changing endeavors mankind has ever created. The half life of many  products making it to market are relatively short. There are some very short lived ones and some that were just vapor. 
+These industries are probably the fastest changing endeavors mankind has ever created. The half life of many  products making it to market are relatively short. There are some very short lived  and some that were just vapor. 
 
 The Hype Cycle helps separate fiction and reality.
 
