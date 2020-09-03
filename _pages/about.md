@@ -39,3 +39,12 @@ The few technologies that are well into the Plateau of Productivity stage of the
 # Author
 
 I am an Electronics and Software Engineer specializing in web architecture, development, deployment, and maintenance
+
+## Contact
+
+![]({{site.baseurl}}/images/mugShot.png)
+
+John at johntelford dot com  
+Portland, Oregon
+
+© 2020. Built with [fastscript](https://fastscript.fast.ai/), part of [fast.ai](https://www.fast.ai/)'s tool kit. 
