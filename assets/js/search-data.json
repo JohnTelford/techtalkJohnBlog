@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Tech Talk John Blog",
-            "content": "Since the early days of the Internet, I have built several blogs using the blog technology du jour. This one is built with fastpages, part of fast.ai’s tool kit. . fastpages . [Introducing fastpages] (https://fastpages.fast.ai/fastpages/jupyter/2020/02/21/introducing-fastpages.html) . It supports creating blog post using Jupyter Notebooks, Markdown, and Microsoft Word .",
+            "content": "Since the early days of the Internet, I have built several blogs using the blog technology du jour. This one is built with fastpages, part of fast.ai’s tool kit. . fastpages . Introducing fastpages . It supports creating blog post using Jupyter Notebooks, Markdown, and Microsoft Word .",
             "url": "/techtalkJohnBlog/blog/2020/09/03/TEST2.html",
             "relUrl": "/blog/2020/09/03/TEST2.html",
             "date": " • Sep 3, 2020"
