@@ -28,7 +28,7 @@ The Hype Cycle helps separate fiction and reality.
     <em>Hype Cycle</em>
 </p>
 
-The main point of interest of the Hype Cycle are:
+The  point of interest on the Hype Cycle are:
 - Technology Trigger  
 A potential technology breakthrough happens.
 
@@ -44,7 +44,7 @@ Technology consumers begin to understand the technology better and how it may be
 - Plateau of Productivity  
 Mainstream adoption starts to take off.
 
-The few technologies that are well into the Plateau of Productivity stage of the hype cycle  may  experience the spiral of death by actions of their creators
+The few technologies that make it to the Plateau of Productivity may be doomed  to the spiral of death by inattention to details of keep products alive
 
 # Author
 
