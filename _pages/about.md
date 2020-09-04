@@ -28,7 +28,8 @@ The Hype Cycle helps separate fiction and reality.
     <em>Hype Cycle</em>
 </p>
 
-The  point of interest on the Hype Cycle are:
+The  Hype Cycle points of interest   are:
+
 - Technology Trigger  
 A potential technology breakthrough happens.
 
