@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+> Warning: Work in Progress!
+
  This is an opinionated technology blog. Posts are about  technologies that are interesting to me.
 
 
@@ -15,8 +17,9 @@ These industries are probably the fastest changing endeavors mankind has ever cr
 
 The Hype Cycle helps separate fiction and reality.
 
-
+{::comment}
 ![]({{site.baseurl}}/images/HypeCycle.png )
+{:/comment}
 
 The main point of interest of the Hype Cycle are:
 - Technology Trigger  
