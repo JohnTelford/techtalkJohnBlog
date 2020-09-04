@@ -44,7 +44,7 @@ Technology consumers begin to understand the technology better and how it may be
 - Plateau of Productivity  
 Mainstream adoption starts to take off.
 
-The few technologies that make it to the Plateau of Productivity may be doomed  to the spiral of death by inattention to details of keep products alive
+The few technologies that make it to the Plateau of Productivity may be doomed  to the spiral of death by inattention to details of keeping them alive
 
 # Author
 
