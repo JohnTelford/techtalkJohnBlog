@@ -16,7 +16,7 @@ These industries are probably the fastest changing endeavors mankind has ever cr
 The Hype Cycle helps separate fiction and reality.
 
 
-![]({{site.baseurl}}/images/HypeCycle.png title="Hype Cycle")
+![]({{site.baseurl}}/images/HypeCycle.png )
 
 The main point of interest of the Hype Cycle are:
 - Technology Trigger  
