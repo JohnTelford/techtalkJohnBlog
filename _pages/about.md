@@ -52,7 +52,9 @@ I am an Electronics and Software Engineer specializing in web architecture, deve
 
 ## Contact
 
-<img align="left" src="{{site.baseurl}}/images/mugShot.png" />
+<p>
+    <img align="left" src="{{site.baseurl}}/images/mugShot.png" />
+</p>
 
 <p style="text-align: left;">
     <em>John at johntelford dot com
