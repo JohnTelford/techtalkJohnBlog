@@ -24,7 +24,9 @@ The Hype Cycle helps separate fiction and reality.
 
 <img  src="{{site.baseurl}}/images/HypeCycle.png" />
 
-<p style="text-align: center;"><em>Hype Cycle</em></p>
+<p style="text-align: center;">
+    <em>Hype Cycle</em>
+</p>
 
 The main point of interest of the Hype Cycle are:
 - Technology Trigger  
