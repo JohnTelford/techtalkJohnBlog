@@ -68,9 +68,4 @@ I am an Electronics and Software Engineer specializing in web architecture, deve
     </em>
 </p>
 
-{::comment}
-John at johntelford dot com  
-Portland, Oregon 
-{:/comment}
-
 © 2020. Built with [fastpages](https://fastpages.fast.ai), part of [fast.ai](https://www.fast.ai/)'s tool kit. 
