@@ -63,5 +63,4 @@ I am an Electronics and Software Engineer specializing in web architecture, deve
     Portland, Oregon
 </em>
 
-
 © 2020. Built with [fastpages](https://fastpages.fast.ai)
