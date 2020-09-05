@@ -60,7 +60,7 @@ I am an Electronics and Software Engineer specializing in web architecture, deve
 
 <em>
     John at johntelford dot com  
-    Portland, Oregon
+    Portland, Oregon yea
 </em>
 
 © 2020. Built with [fastpages](https://fastpages.fast.ai)
