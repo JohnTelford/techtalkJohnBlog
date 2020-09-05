@@ -55,7 +55,7 @@ I am an Electronics and Software Engineer specializing in web architecture, deve
 
 <div>
     <img align="left" src="{{site.baseurl}}/images/mugShot.png" />
-</dv>
+</div>
 
 <div>
     <p style="text-align: left;">
