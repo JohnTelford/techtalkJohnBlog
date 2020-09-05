@@ -1,56 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/techtalkJohnBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="/techtalkJohnBlog/" rel="alternate" type="text/html" /><updated>2020-09-05T13:10:27-05:00</updated><id>/techtalkJohnBlog/feed.xml</id><title type="html">Tech Talk John Blog</title><subtitle>An Opinionated Tech Talk Blog</subtitle><entry><title type="html">Tech Talk John Blog</title><link href="/techtalkJohnBlog/blog/2020/09/03/TEST2.html" rel="alternate" type="text/html" title="Tech Talk John Blog" /><published>2020-09-03T00:00:00-05:00</published><updated>2020-09-03T00:00:00-05:00</updated><id>/techtalkJohnBlog/blog/2020/09/03/TEST2</id><content type="html" xml:base="/techtalkJohnBlog/blog/2020/09/03/TEST2.html">&lt;blockquote&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/techtalkJohnBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="/techtalkJohnBlog/" rel="alternate" type="text/html" /><updated>2020-09-05T13:47:28-05:00</updated><id>/techtalkJohnBlog/feed.xml</id><title type="html">Tech Talk John Blog</title><subtitle>An Opinionated Tech Talk Blog</subtitle><entry><title type="html">Tech Talk John Blog</title><link href="/techtalkJohnBlog/blog/2020/09/03/TEST2.html" rel="alternate" type="text/html" title="Tech Talk John Blog" /><published>2020-09-03T00:00:00-05:00</published><updated>2020-09-03T00:00:00-05:00</updated><id>/techtalkJohnBlog/blog/2020/09/03/TEST2</id><content type="html" xml:base="/techtalkJohnBlog/blog/2020/09/03/TEST2.html">&lt;blockquote&gt;
   &lt;p&gt;&lt;strong&gt;&lt;em&gt;Warning:&lt;/em&gt;&lt;/strong&gt; Work in Progress!&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Since the early days of the Internet, I have built several blogs from scratch or using   blog technology du jour. This one is built using &lt;a href=&quot;https://fastpages.fast.ai&quot;&gt;fastpages&lt;/a&gt;, which is a part of  &lt;a href=&quot;https://www.fast.ai/&quot;&gt;fast.ai&lt;/a&gt;’s tool kit.&lt;/p&gt;
 
-&lt;h2 id=&quot;fastpages&quot;&gt;Fastpages&lt;/h2&gt;
+&lt;h2 id=&quot;fastpages-posts&quot;&gt;Fastpages Posts&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://fastpages.fast.ai/fastpages/jupyter/2020/02/21/introducing-fastpages.html&quot;&gt;Fastpages&lt;/a&gt; supports creating blog post using &lt;a href=&quot;https://jupyter.org/&quot;&gt;Jupyter Notebooks&lt;/a&gt;,  &lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;Markdown&lt;/a&gt;, and Microsoft Word.&lt;/p&gt;
 
+&lt;h3 id=&quot;editing&quot;&gt;Editing&lt;/h3&gt;
+
 &lt;p&gt;My preference is creating posts using &lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;GitHub Markdown&lt;/a&gt;.  Fastpages runs on &lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt;,  it is relatively  easy to use, and GitHub markdown has some features that other markdown dialects do not have.&lt;/p&gt;
+
+&lt;p&gt;My go to editor is &lt;img src=&quot;https://code.visualstudio.com&quot; alt=&quot;VScode&quot; /&gt;  with the &lt;img src=&quot;https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview&quot; alt=&quot;Github Markdown Preview&quot; /&gt; extension pack. A nice feature is the GitHub markdown preview.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/techtalkJohnBlog/images/fastpagesdev.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align: center;&quot;&gt;
-    &lt;em&gt;Fastpages Posts&lt;/em&gt;
+    &lt;em&gt;Creating Fastpages Posts&lt;/em&gt;
 &lt;/p&gt;
 
 &lt;p&gt;This diagram illustrates creating  fastpages posts&lt;/p&gt;
 
-&lt;h2 id=&quot;github-pages&quot;&gt;GitHub Pages&lt;/h2&gt;
+&lt;h3 id=&quot;github-pages&quot;&gt;GitHub Pages&lt;/h3&gt;
 
-&lt;p&gt;Fastpages uses  &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHuB Pages&lt;/a&gt;, a cast of creative APIs, and apps that compile and deploy blogs.&lt;/p&gt;
+&lt;p&gt;Fastpages uses  &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHuB Pages&lt;/a&gt;, a cast of creative APIs, and apps to compile and deploy blog.&lt;/p&gt;
 
-&lt;h2 id=&quot;synopsis&quot;&gt;Synopsis&lt;/h2&gt;
+&lt;!-- ## Synopsis
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;compose blogs on your computer and save it to your local GitHub repository blog repository&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;save a copy to the local GitHub repository to the GitHub repository.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;GitHub saves all versions of the changes to the repository.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;information about who changed what, when, where, and why, is stored in repository&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Fastpages  automatically compiles  blog  posting from the repository&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;the top of the blog post page has links to the blog About page, a search link for the entire blog,  a link to all blog tags, and a link to the blog home page&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;links to all blog postings are added to the blog home page, with post title, description, and date added to the blog&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;clicking a blog posting link opens the posting&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;a table of contents is 
-shown for each section of the blog post&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>John M. Telford</name></author><summary type="html">Warning: Work in Progress!</summary></entry></feed>
+- compose blogs on your computer and save it to your local GitHub repository blog repository
+
+- save a copy to the local GitHub repository to the GitHub repository.
+
+- GitHub saves all versions of the changes to the repository.
+
+- information about who changed what, when, where, and why, is stored in repository 
+
+- Fastpages  automatically compiles  blog  posting from the repository
+
+- the top of the blog post page has links to the blog About page, a search link for the entire blog,  a link to all blog tags, and a link to the blog home page
+
+ - links to all blog postings are added to the blog home page, with post title, description, and date added to the blog
+
+- clicking a blog posting link opens the posting
+
+- a table of contents is 
+shown for each section of the blog post 
+ --&gt;</content><author><name>John M. Telford</name></author><summary type="html">Warning: Work in Progress!</summary></entry></feed>
