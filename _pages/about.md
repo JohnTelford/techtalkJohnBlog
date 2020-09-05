@@ -56,10 +56,8 @@ I am an Electronics and Software Engineer specializing in web architecture, deve
 <figure>
     <img align="left" src="{{site.baseurl}}/images/mugShot.png" />
     <figurecaption>
-        <em>John at johntelford dot com
-            <br>
-            
-            Portland, Oregon 
+        John at johntelford dot com            
+        Portland, Oregon 
         </em>
     </figurecaption>
 </figure>
