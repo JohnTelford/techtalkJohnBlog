@@ -3,9 +3,9 @@
     
         "post0": {
             "title": "Tech Talk John Blog",
-            "content": "Warning: Work in Progress! . Since the early days of the Internet, I have built several blogs from scratch or using blog technology du jour. This blog is built using fastpages, which is a part of fast.ai’s tool kit. . This diagram illustrates a process for creating fastpages posts . . Creating Fastpages Posts . Fastpages Posts . Fastpages supports creating blog post using Jupyter Notebooks, Markdown, and Microsoft Word. . GitHub Pages . Fastpages uses GitHuB Pages, and a cast of creative APIs, and apps to compile and deploy blog. . Editing . My go to editor is VScode with the Github Markdown Preview extension pack. A nice feature is GitHub markdown preview. . Fastpages uses GitHub Pages for creating blog posts which uses GitHub Markdown. It has some features other markdown dialects may not have, like commenting out lines of markdown and embedding html .",
-            "url": "/techtalkJohnBlog/blog/2020/09/03/TEST2.html",
-            "relUrl": "/blog/2020/09/03/TEST2.html",
+            "content": "Warning: Work in Progress! . Since the early days of the Internet, I have built blogs from scratch or used blog technology du jour. This blog is built using fastpages that is in fast.ai’s tool kit. . The diagram illustrates a process for creating fastpages posts . . Creating Fastpages Posts . Fastpages Posts . Fastpages supports creating blog post using Jupyter Notebooks, Markdown, and Microsoft Word. . Editing . My go to editor is VScode with the Github Markdown Preview extension pack. It has a nice feature for previewing GitHub markdown . Fastpages uses GitHub Pages for creating blog. It uses GitHub Markdown that has some features other markdown dialects may not have, like commenting out lines of markdown and embedding html . GitHub Pages . Fastpages uses GitHuB Pages, and a cast of creative APIs, and apps to compile and deploy blog. .",
+            "url": "/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2.html",
+            "relUrl": "/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2.html",
             "date": " • Sep 3, 2020"
         }
         
