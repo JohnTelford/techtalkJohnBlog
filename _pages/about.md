@@ -63,6 +63,7 @@ I am an Electronics and Software Engineer specializing in web architecture, deve
     <p style="text-align: left;">
         <em>John at johntelford dot com
             <br>
+            
             Portland, Oregon 
         </em>
     </p>
