@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/techtalkJohnBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="/techtalkJohnBlog/" rel="alternate" type="text/html" /><updated>2020-09-05T18:07:04-05:00</updated><id>/techtalkJohnBlog/feed.xml</id><title type="html">Tech Talk John Blog</title><subtitle>An Opinionated Tech Talk Blog</subtitle><entry><title type="html">Tech Talk John Blog</title><link href="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2.html" rel="alternate" type="text/html" title="Tech Talk John Blog" /><published>2020-09-03T00:00:00-05:00</published><updated>2020-09-03T00:00:00-05:00</updated><id>/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2</id><content type="html" xml:base="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2.html">&lt;!-- /techtalkJohnBlog --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/techtalkJohnBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="/techtalkJohnBlog/" rel="alternate" type="text/html" /><updated>2020-09-05T18:58:38-05:00</updated><id>/techtalkJohnBlog/feed.xml</id><title type="html">Tech Talk John Blog</title><subtitle>An Opinionated Tech Talk Blog</subtitle><entry><title type="html">Tech Talk John Blog</title><link href="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2.html" rel="alternate" type="text/html" title="Tech Talk John Blog" /><published>2020-09-03T00:00:00-05:00</published><updated>2020-09-03T00:00:00-05:00</updated><id>/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2</id><content type="html" xml:base="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2.html">&lt;!-- /techtalkJohnBlog --&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;strong&gt;&lt;em&gt;Warning:&lt;/em&gt;&lt;/strong&gt; Work in Progress!&lt;/p&gt;
@@ -27,6 +27,16 @@
 &lt;h3 id=&quot;github-pages&quot;&gt;GitHub Pages&lt;/h3&gt;
 
 &lt;p&gt;Fastpages uses  &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHuB Pages&lt;/a&gt;, and a cast of creative APIs, and apps to compile and deploy blog.&lt;/p&gt;
+
+&lt;h2 id=&quot;git&quot;&gt;Git&lt;/h2&gt;
+
+&lt;p&gt;Git and GitHub are integral to fastpages&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://git-scm.com&quot;&gt;Git&lt;/a&gt; is a key structural component. It is a distributed version control system designed to track changes in a project’s files.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt; is an online platform for hosting most any type of file. Think of GitHub as a platform that stores the whole codebase in a remote repository. It comes with tools to collaborate on projects of any size.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dev.to/educative/git-and-github-in-a-nutshell-definitive-tutorial-for-beginners-2i05&quot;&gt;Git and GitHub in a Nutshell: &lt;/a&gt; Definitive tutorial for beginners&lt;/p&gt;
 
 &lt;!-- ## Synopsis
 
