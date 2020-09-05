@@ -54,7 +54,9 @@ I am an Electronics and Software Engineer specializing in web architecture, deve
 ## Contact
 
 <div>
-    <img align="left" src="{{site.baseurl}}/images/mugShot.png" />
+    <p>
+        <img align="left" src="{{site.baseurl}}/images/mugShot.png" />
+    </p>
 </div>
 
 <div>
