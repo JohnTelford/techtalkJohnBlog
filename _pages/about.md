@@ -53,19 +53,17 @@ I am an Electronics and Software Engineer specializing in web architecture, deve
 
 ## Contact
 
-<p>
+<div>
     <img align="left" src="{{site.baseurl}}/images/mugShot.png" />
-</p>
+</dv>
 
-<br>
-<br>
-<br>
-
-<p style="text-align: left;">
-    <em>John at johntelford dot com
-        <br>
-        Portland, Oregon 
-    </em>
-</p>
+<div>
+    <p style="text-align: left;">
+        <em>John at johntelford dot com
+            <br>
+            Portland, Oregon 
+        </em>
+    </p>
+</div>
 
 © 2020. Built with [fastpages](https://fastpages.fast.ai), part of [fast.ai](https://www.fast.ai/)'s tool kit. 
