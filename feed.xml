@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/techtalkJohnBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="/techtalkJohnBlog/" rel="alternate" type="text/html" /><updated>2020-09-06T16:14:25-05:00</updated><id>/techtalkJohnBlog/feed.xml</id><title type="html">Tech Talk Blog</title><subtitle>An Opinionated Tech Talk Blog</subtitle><entry><title type="html">Tech Talk Blog</title><link href="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2.html" rel="alternate" type="text/html" title="Tech Talk Blog" /><published>2020-09-03T00:00:00-05:00</published><updated>2020-09-03T00:00:00-05:00</updated><id>/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2</id><content type="html" xml:base="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2.html">&lt;!-- /techtalkJohnBlog --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/techtalkJohnBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="/techtalkJohnBlog/" rel="alternate" type="text/html" /><updated>2020-09-06T16:19:42-05:00</updated><id>/techtalkJohnBlog/feed.xml</id><title type="html">Tech Talk Blog</title><subtitle>An Opinionated Tech Talk Blog</subtitle><entry><title type="html">Tech Talk Blog</title><link href="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2.html" rel="alternate" type="text/html" title="Tech Talk Blog" /><published>2020-09-03T00:00:00-05:00</published><updated>2020-09-03T00:00:00-05:00</updated><id>/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2</id><content type="html" xml:base="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2.html">&lt;!-- /techtalkJohnBlog --&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Warning: Work in Progress!&lt;/p&gt;
@@ -33,15 +33,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;My experience installing and using fastpages was worth while. I have learned things doing so.&lt;/p&gt;
-
-&lt;p&gt;The diagram illustrates a process for creating  fastpages posts&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/techtalkJohnBlog/images/fastpagesdev.png&quot; width=&quot;480&quot; /&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align: center;&quot;&gt;
-    &lt;em&gt;A Process for Creating Fastpages Posts&lt;/em&gt;
-&lt;/p&gt;
+&lt;p&gt;My experience installing and using fastpages was worth while. I have learned things too.&lt;/p&gt;
 
 &lt;h2 id=&quot;git-and-github&quot;&gt;Git and GitHub&lt;/h2&gt;
 
@@ -53,6 +45,14 @@
 
 &lt;p&gt;&lt;a href=&quot;https://dev.to/educative/git-and-github-in-a-nutshell-definitive-tutorial-for-beginners-2i05&quot;&gt;Git and GitHub in a Nutshell: &lt;/a&gt; Definitive tutorial for beginners&lt;/p&gt;
 
+&lt;p&gt;The diagram illustrates a process for creating  fastpages posts&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/techtalkJohnBlog/images/Fastpages.png&quot; width=&quot;480&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center;&quot;&gt;
+    &lt;em&gt;A Process for Creating Fastpages Posts&lt;/em&gt;
+&lt;/p&gt;
+
 &lt;h2 id=&quot;fastpages-posts&quot;&gt;Fastpages Posts&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://fastpages.fast.ai&quot;&gt;Fastpages&lt;/a&gt; supports creating blog post using &lt;a href=&quot;https://fastpages.fast.ai&quot;&gt;Jupyter Notebooks&lt;/a&gt;,  &lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;Markdown&lt;/a&gt;, and Microsoft Word.&lt;/p&gt;
@@ -61,7 +61,12 @@
 
 &lt;p&gt;My go to editor is &lt;a href=&quot;https://code.visualstudio.com&quot;&gt;VScode&lt;/a&gt;  with the &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview&quot;&gt;Github Markdown Preview&lt;/a&gt; extension pack. It has a nice feature for  previewing GitHub markdown&lt;/p&gt;
 
+&lt;p&gt;The local repository contains a copy the GitHub  repo. 
+I use VScode for blog command and control,  text editing, and interfacing with GitHub.&lt;/p&gt;
+
 &lt;p&gt;Fastpages uses &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt; for creating blog. It uses &lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;GitHub Markdown&lt;/a&gt; that  has some features  other markdown dialects may not have, like commenting out lines of markdown and embedding html&lt;/p&gt;
+
+&lt;p&gt;VScode&lt;/p&gt;
 
 &lt;h3 id=&quot;github-pages&quot;&gt;GitHub Pages&lt;/h3&gt;
 
