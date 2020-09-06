@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-> ***Warning:*** Work in Progress!
+> Warning: Work in Progress!
 
 > This is an opinionated technology blog. Posts are about technologies that are interesting to me.
 
