@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/techtalkJohnBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="/techtalkJohnBlog/" rel="alternate" type="text/html" /><updated>2020-09-06T17:19:27-05:00</updated><id>/techtalkJohnBlog/feed.xml</id><title type="html">Tech Talk Blog</title><subtitle>An Opinionated Tech Talk Blog</subtitle><entry><title type="html">Tech Talk Blog</title><link href="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2.html" rel="alternate" type="text/html" title="Tech Talk Blog" /><published>2020-09-03T00:00:00-05:00</published><updated>2020-09-03T00:00:00-05:00</updated><id>/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2</id><content type="html" xml:base="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2.html">&lt;!-- /techtalkJohnBlog --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/techtalkJohnBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="/techtalkJohnBlog/" rel="alternate" type="text/html" /><updated>2020-09-07T01:21:43-05:00</updated><id>/techtalkJohnBlog/feed.xml</id><title type="html">Tech Talk Blog</title><subtitle>An Opinionated Tech Talk Blog</subtitle><entry><title type="html">Tech Talk Blog</title><link href="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2.html" rel="alternate" type="text/html" title="Tech Talk Blog" /><published>2020-09-03T00:00:00-05:00</published><updated>2020-09-03T00:00:00-05:00</updated><id>/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2</id><content type="html" xml:base="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2.html">&lt;!-- /techtalkJohnBlog --&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Warning: Work in Progress!&lt;/p&gt;
@@ -33,17 +33,25 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;My experience installing and using fastpages was worth while. I have learned things too.&lt;/p&gt;
+&lt;p&gt;My experience installing and using fastpages was worth while. I have learned things also.&lt;/p&gt;
 
 &lt;h2 id=&quot;git-and-github&quot;&gt;Git and GitHub&lt;/h2&gt;
 
-&lt;p&gt;Git and GitHub are integral to fastpages&lt;/p&gt;
+&lt;p&gt;Git, GitHub, and GitHub Pages are integral to fastpages. Fastpages relies on Github pages for hosting, and Github Actions to automate the creation of your blog.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://git-scm.com&quot;&gt;Git&lt;/a&gt; is a key structural component. It is a distributed version control system designed to track changes in a project’s files. It helps answering the questions: Who changed what, Where, When, and Why.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt; is an online platform for hosting most any type of file. Think of GitHub as a platform that stores the files in a remote repository. It comes with tools to collaborate on projects of any size.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://pages.github.com&quot;&gt;Git Hub Pages&lt;/a&gt; GitHub Pages are public webpages hosted for free through GitHub&lt;/p&gt;
+
+&lt;h3 id=&quot;some-helpful-resources&quot;&gt;Some Helpful Resources&lt;/h3&gt;
+
 &lt;p&gt;&lt;a href=&quot;https://dev.to/educative/git-and-github-in-a-nutshell-definitive-tutorial-for-beginners-2i05&quot;&gt;Git and GitHub in a Nutshell: &lt;/a&gt; Definitive tutorial for beginners&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jmcglone.com/guides/github-pages/&quot;&gt;Creating and Hosting a Personal Site on GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;source-code-to-web-pages&quot;&gt;Source Code to Web Pages&lt;/h1&gt;
 
 &lt;p&gt;The diagram illustrates a process for creating  fastpages posts&lt;/p&gt;
 
@@ -57,16 +65,24 @@
 
 &lt;p&gt;&lt;a href=&quot;https://fastpages.fast.ai&quot;&gt;Fastpages&lt;/a&gt; supports creating blog post using &lt;a href=&quot;https://fastpages.fast.ai&quot;&gt;Jupyter Notebooks&lt;/a&gt;,  &lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;Markdown&lt;/a&gt;, and Microsoft Word.&lt;/p&gt;
 
-&lt;h3 id=&quot;editing&quot;&gt;Editing&lt;/h3&gt;
+&lt;h3 id=&quot;vscode&quot;&gt;VScode&lt;/h3&gt;
 
 &lt;p&gt;My go to editor is &lt;a href=&quot;https://code.visualstudio.com&quot;&gt;VScode&lt;/a&gt;  with the &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview&quot;&gt;Github Markdown Preview&lt;/a&gt; extension pack. It has a nice feature for  previewing GitHub markdown&lt;/p&gt;
 
-&lt;p&gt;The local repository contains a copy the GitHub  repo. 
-I use VScode for blog command and control,  text editing, and interfacing with GitHub.&lt;/p&gt;
+&lt;p&gt;### Local Repository
+I use VScode for blog command and control,  text editing, and interfacing with git and GitHub.&lt;/p&gt;
+
+&lt;p&gt;The local repository contains a copy the GitHub repository. Contents are edited using VScode. The Git-Hub repository is not directly updated. It is updated after edited files are saved, staged, message added, and push  to the remote repository.&lt;/p&gt;
+
+&lt;p&gt;One can use the built-in terminal to manually run the &lt;code class=&quot;highlighter-rouge&quot;&gt;git add&lt;/code&gt; command stages edited the files,  The &lt;code class=&quot;highlighter-rouge&quot;&gt;git commit -m &quot;message&quot;&lt;/code&gt; command add the “why” message,  and the &lt;code class=&quot;highlighter-rouge&quot;&gt;git push&lt;/code&gt; command pushes the edited files to the GitHub repository. I prefer using the VScode built-in Git-Hub interface.  It is quicker  and checks for errors. Microsoft owns both GitHub and VScode.&lt;/p&gt;
+
+&lt;p&gt;The local repository is updated with the &lt;code class=&quot;highlighter-rouge&quot;&gt;git pull&lt;/code&gt; command. It ensures the local repository is  up to date with the GitHub repository.&lt;/p&gt;
+
+&lt;h3 id=&quot;github-repository&quot;&gt;GitHub Repository&lt;/h3&gt;
+
+&lt;p&gt;The GitHub repository&lt;/p&gt;
 
 &lt;p&gt;Fastpages uses &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt; for creating blog. It uses &lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;GitHub Markdown&lt;/a&gt; that  has some features  other markdown dialects may not have, like commenting out lines of markdown and embedding html&lt;/p&gt;
-
-&lt;p&gt;VScode&lt;/p&gt;
 
 &lt;h3 id=&quot;github-pages&quot;&gt;GitHub Pages&lt;/h3&gt;
 
