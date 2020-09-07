@@ -105,7 +105,7 @@ window.onload = wrap_img;
        • <span class="read-time" title="Estimated read time">
     
     
-      2 min read
+      3 min read
     
 </span></p>
 
@@ -147,8 +147,8 @@ window.onload = wrap_img;
 <ul>
 <li class="toc-entry toc-h2"><a href="#fastpages-posts">Fastpages Posts</a></li>
 <li class="toc-entry toc-h2"><a href="#vscode">VScode</a></li>
-<li class="toc-entry toc-h2"><a href="#github-repository">GitHub Repository</a></li>
-<li class="toc-entry toc-h2"><a href="#github-pages">GitHub Pages</a></li>
+<li class="toc-entry toc-h2"><a href="#local-repository">Local Repository</a></li>
+<li class="toc-entry toc-h2"><a href="#github-chain">GitHub Chain</a></li>
 </ul>
 </li>
 </ul><!-- /techtalkJohnBlog -->
@@ -192,7 +192,7 @@ window.onload = wrap_img;
 <h2 id="git-and-github">
 <a class="anchor" href="#git-and-github" aria-hidden="true"><span class="octicon octicon-link"></span></a>Git and GitHub</h2>
 
-<p>Git, GitHub, and GitHub Pages are integral to fastpages. Fastpages relies on Github Pages for hosting, and Github Actions to automate the creation blogs</p>
+<p>Git, GitHub, and GitHub Pages are integral to fastpages. Fastpages relies on GitHub for hosting the blog repository, Github Pages to compile and deploy the blog, and Github Actions to automate  blog creation</p>
 
 <p><a href="https://git-scm.com">Git</a> is a key structural component. It is a distributed version control system designed to track changes in a project’s files. It helps answering the questions: Who Changed What, Where, When, and Why?</p>
 
@@ -210,7 +210,7 @@ window.onload = wrap_img;
 <h1 id="from-edits-to-web-blog">
 <a class="anchor" href="#from-edits-to-web-blog" aria-hidden="true"><span class="octicon octicon-link"></span></a>From Edits to Web Blog</h1>
 
-<p>The diagram illustrates a process for creating  fastpages posts</p>
+<p>The diagram illustrates  from editing fastpages posts to deploying them</p>
 
 <p><img src="/techtalkJohnBlog/images/Fastpages.png"></p>
 
@@ -223,33 +223,38 @@ window.onload = wrap_img;
 
 <p><a href="https://fastpages.fast.ai">Fastpages</a> supports creating blog post using <a href="https://fastpages.fast.ai">Jupyter Notebooks</a>,  <a href="https://guides.github.com/features/mastering-markdown/">Markdown</a>, and Microsoft Word.</p>
 
+<p>Fastpages uses <a href="https://pages.github.com">GitHub Pages</a> to create and deploy blogs. It uses <a href="https://guides.github.com/features/mastering-markdown/">GitHub Markdown</a> that  has some features  other markdown dialects may not have, like commenting out lines of markdown, and supporting embedding HTML</p>
+
 <h2 id="vscode">
 <a class="anchor" href="#vscode" aria-hidden="true"><span class="octicon octicon-link"></span></a>VScode</h2>
 
-<p>My go to editor is <a href="https://code.visualstudio.com">VScode</a>  with the <a href="https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview">Github Markdown Preview</a> extension pack. A convenient feature is  previewing GitHub markdown</p>
-
 <p>I use VScode for blog command and control,  text editing, and interfacing with git and GitHub.</p>
 
-<p>## Local Repository
-The local repository contains a copy the GitHub repository. Contents are edited using VScode. The GitHub repository is not directly updated. It is updated after edited files are saved, staged, a message is added, and pushed  to the GitHub repository.</p>
+<p>My go to editor is <a href="https://code.visualstudio.com">VScode</a>  for blog command and control,  text editing, and interfacing with git and GitHub.   The <a href="https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview">Github Markdown Preview</a> extension pack is a convenient feature for  previewing  GitHub markdown blog posts while typing.</p>
 
-<p>One can use the built-in terminal to manually update the GitHub repository with the updated files in the local repository. The <code class="highlighter-rouge">git add</code> command stages the edited  files.  The <code class="highlighter-rouge">git commit -m "message"</code> command add the “why” message. The <code class="highlighter-rouge">git push</code> command pushes the edited files to the GitHub repository. I prefer using the VScode built-in GitHub interface.  It is quicker  and checks for errors. Microsoft owns both GitHub and VScode.</p>
+<p>The VScode <a href="https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker">Docker Extension</a> enables  previewing the  entire fastpages blog. This is a much faster way of seeing  blog changes than pushing them to the GitHub Repository</p>
+
+<h2 id="local-repository">
+<a class="anchor" href="#local-repository" aria-hidden="true"><span class="octicon octicon-link"></span></a>Local Repository</h2>
+
+<p>The local repository contains a copy the GitHub repository. Contents are edited using VScode. The GitHub repository is not directly updated. It is updated after edited files are saved, staged, a message is added, and pushed  to the GitHub repository.</p>
+
+<p>One can use the built-in terminal to manually update the GitHub repository with the updated files in the local repository. The <code class="highlighter-rouge">git add</code> command stages the edited  files.  The <code class="highlighter-rouge">git commit -m "message"</code> command adds the “why” message. The <code class="highlighter-rouge">git push</code> command pushes the edited files to the GitHub repository. I prefer using the VScode built-in GitHub interface.  It is quicker  and checks for errors. Microsoft owns both GitHub and VScode.</p>
 
 <p>The local repository is updated with the <code class="highlighter-rouge">git pull</code> command. It ensures the local repository is  up to date with the GitHub repository.</p>
 
-<h2 id="github-repository">
-<a class="anchor" href="#github-repository" aria-hidden="true"><span class="octicon octicon-link"></span></a>GitHub Repository</h2>
+<h2 id="github-chain">
+<a class="anchor" href="#github-chain" aria-hidden="true"><span class="octicon octicon-link"></span></a>GitHub Chain</h2>
 
-<p>The GitHub repository</p>
+<p>Fastpages relies on a cast of creative APIs, and apps to compile and deploy blogs</p>
 
-<p>Fastpages uses <a href="https://pages.github.com">GitHub Pages</a> for creating blog. It uses <a href="https://guides.github.com/features/mastering-markdown/">GitHub Markdown</a> that  has some features  other markdown dialects may not have, like commenting out lines of markdown and embedding html</p>
+<p>GitHub Repository -&gt; Fastpages -&gt; Github Pages -&gt; Deploy Blog</p>
 
-<h2 id="github-pages">
-<a class="anchor" href="#github-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>GitHub Pages</h2>
-
-<p>Fastpages uses  <a href="https://pages.github.com">GitHuB Pages</a>, and a cast of creative APIs, and apps to compile and deploy blog.</p>
+<p>GitHub notifies fastpages after a push from the local repository. Fastpages does what is necessary for GitHub Pages to compile and deploy the blog</p>
 
 <!-- 
+## GitHub Pages
+
 - compose blogs on your computer and save it to your local GitHub repository blog repository
 
 - save a copy to the local GitHub repository to the GitHub repository.
