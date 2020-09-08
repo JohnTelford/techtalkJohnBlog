@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/techtalkJohnBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="/techtalkJohnBlog/" rel="alternate" type="text/html" /><updated>2020-09-08T16:50:03-05:00</updated><id>/techtalkJohnBlog/feed.xml</id><title type="html">Tech Talk Blog</title><subtitle>An Opinionated Tech Talk Blog</subtitle><entry><title type="html">Fastpages</title><link href="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/07/Fastpages.html" rel="alternate" type="text/html" title="Fastpages" /><published>2020-09-07T00:00:00-05:00</published><updated>2020-09-07T00:00:00-05:00</updated><id>/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/07/Fastpages</id><content type="html" xml:base="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/07/Fastpages.html">&lt;!-- /techtalkJohnBlog --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/techtalkJohnBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="/techtalkJohnBlog/" rel="alternate" type="text/html" /><updated>2020-09-08T16:56:01-05:00</updated><id>/techtalkJohnBlog/feed.xml</id><title type="html">Tech Talk Blog</title><subtitle>An Opinionated Tech Talk Blog</subtitle><entry><title type="html">Fastpages</title><link href="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/07/Fastpages.html" rel="alternate" type="text/html" title="Fastpages" /><published>2020-09-07T00:00:00-05:00</published><updated>2020-09-07T00:00:00-05:00</updated><id>/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/07/Fastpages</id><content type="html" xml:base="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/07/Fastpages.html">&lt;!-- /techtalkJohnBlog --&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Warning: Work in Progress!&lt;/p&gt;
@@ -39,7 +39,9 @@
 
 &lt;h2 id=&quot;git&quot;&gt;Git&lt;/h2&gt;
 
-&lt;!-- ## Git, GitHub, GitHub Pages, GitHub Actions --&gt;
+&lt;!-- 
+## Git, GitHub, GitHub Pages, GitHub Actions
+ --&gt;
 
 &lt;p&gt;&lt;em&gt;Git&lt;/em&gt;, &lt;em&gt;GitHub&lt;/em&gt;, and &lt;em&gt;GitHub Pages&lt;/em&gt; are integral to &lt;em&gt;fastpages&lt;/em&gt;. It relies on &lt;em&gt;git&lt;/em&gt; to  push file changes to the blog &lt;em&gt;GitHub&lt;/em&gt;  repository , &lt;em&gt;GitHub Pages&lt;/em&gt; to compile and deploy the blog, and  &lt;em&gt;GitHub Actions&lt;/em&gt;  for  blog creation  automation&lt;/p&gt;
 
