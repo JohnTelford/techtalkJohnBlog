@@ -14,11 +14,7 @@ categories: [Blog, VScode, git, GitHub, Fastpages, GitHub Pages]
 
 > Warning: Work in Progress!
 
-<<<<<<< HEAD
 > This is an opinionated technology blog about technologies of interest to me
-=======
-> This is an opinionated technology blog. Posts are about technologies that are interesting to me
->>>>>>> master
 
 Since the early days of the Internet, I have built  blogs from scratch or used   blog technology du jour. This blog is built using [fastpages](https://fastpages.fast.ai), a tool in [fast.ai](https://www.fast.ai/)'s tool kit
 
@@ -79,7 +75,7 @@ The diagram illustrates  creating blog posts from editing to deploying blogs
 
 [VScode](https://code.visualstudio.com) is  my go-to editor for blog command and control,  text editing, and interfacing with `git` and *GitHub*.   The [Github Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview) extension pack is  convenient  for  previewing  *GitHub* markdown blog posts while typing
  
-The *VScode* [Docker Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) enables  previewing the  entire *fastpages* blog. This is a much faster way to see  blog changes than pushing them to the *GitHub* Repository
+The *VScode* [Docker Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) enables  previewing the  entire *fastpages* blog from any `git` branch. This is a much faster and safer way to view the  blog while writing new blog posts without disturbing the the blog public view.  One can be working on several new blog posts on different `git` branches. When a new blog post is ready for public viewing, merge it with the `git` master branch  and  pushing it to the *GitHub* Repository 
 
 ## Local Repository
 
