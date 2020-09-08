@@ -4,10 +4,9 @@ title: About
 permalink: /about/
 ---
 
-> ***Warning:*** Work in Progress!
+> Warning: Work in Progress!
 
- This is an opinionated technology blog. Posts are about  technologies that are interesting to me.
-
+> This is an opinionated technology blog. Posts are about technologies that are interesting to me.
 
 The Internet has been a part my life since its early days. I have decades of hands-on experience  with some of the ever changing Electronic, Internet, and Software technologies,  and a passion pursuing what’s new and improved within the these industries
 

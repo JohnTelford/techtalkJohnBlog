@@ -14,7 +14,11 @@ categories: [Blog, VScode, git, GitHub, Fastpages, GitHub Pages]
 
 > Warning: Work in Progress!
 
+<<<<<<< HEAD
 > This is an opinionated technology blog about technologies of interest to me
+=======
+> This is an opinionated technology blog. Posts are about technologies that are interesting to me
+>>>>>>> master
 
 Since the early days of the Internet, I have built  blogs from scratch or used   blog technology du jour. This blog is built using [fastpages](https://fastpages.fast.ai), a tool in [fast.ai](https://www.fast.ai/)'s tool kit
 
