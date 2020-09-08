@@ -69,7 +69,7 @@ The diagram illustrates  creating blog posts from editing to deploying blogs
 
 [Fastpages](https://fastpages.fast.ai) supports creating blog post using [Jupyter Notebooks](https://fastpages.fast.ai),  [Markdown](https://guides.github.com/features/mastering-markdown/), and Microsoft Word
 
-*Fastpages* uses [GitHub Pages](https://pages.github.com) to create and deploy blogs. It uses [GitHub Markdown](https://guides.*GitHub*.com/features/mastering-markdown/) for editing blog post text. It has some features that other markdown dialects may not have, like commenting out lines of markdown, and supporting embedding HTML
+*Fastpages* uses [GitHub Pages](https://pages.github.com) to create and deploy blogs. It uses [GitHub Markdown](https://guides.*GitHub*.com/features/mastering-markdown/) for  blog post text. It has some features that other markdown dialects may not have, like commenting out lines of markdown, and supporting embedding HTML
 
 ## VScode
 
