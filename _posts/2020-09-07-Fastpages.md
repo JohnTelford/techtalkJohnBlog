@@ -1,7 +1,7 @@
 ---
 title: 'Fastpages'
 description:  A post about the blog 
-author: John M. Telford
+author: John Telford
 layout: post
 toc: true
 comments: true
