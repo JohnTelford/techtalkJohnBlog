@@ -34,13 +34,17 @@ How fitting.  The first blog post is about the blog
 
 My experience installing and using *fastpages* was worth while. I have learned things too
 
-## Git, GitHub, GitHub Pages
+## Git
 
-*Git*, *GitHub*, and *GitHub Pages* are integral to *fastpages*. It relies on *GitHub* for hosting the blog repository, *GitHub Pages* to compile and deploy the blog, and  *GitHub Actions*  for  blog creation  automation
+{::comment}
+## Git, GitHub, GitHub Pages, GitHub Actions
+{:/comment}
+
+*Git*, *GitHub*, and *GitHub Pages* are integral to *fastpages*. It relies on *git* to  push file changes to the blog *GitHub*  repository , *GitHub Pages* to compile and deploy the blog, and  *GitHub Actions*  for  blog creation  automation
 
 [Git](https://git-scm.com) is a key structural component. It is a distributed version control system designed to track project file changes. It helps answering the questions: Who Changed What, Where, When, and Why? *Git* is responsible for everything *GitHub*-related that happens  on the editing computer.
 
-[GitHub](https://github.com) is an online platform for hosting  versions of most any type of file.  *GitHub* is a platform for storing files in a remote repository. It comes with tools for project collaboration 
+[GitHub](https://github.com) is an online platform for hosting  versions of most any type of file.  *GitHub* is a platform for storing files in a remote repository that is a unified source of truth
 
 [Git Hub Pages](https://pages.github.com) creates and deploys public web pages 
 
@@ -73,17 +77,27 @@ The diagram illustrates  creating blog posts from editing to deploying blogs
 
 ## VScode
 
-[VScode](https://code.visualstudio.com) is  my go-to editor for blog command and control,  text editing, and interfacing with `git` and *GitHub*.   The [Github Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview) extension pack is  convenient  for  previewing  *GitHub* markdown blog posts while typing
+[VScode](https://code.visualstudio.com) is  my go-to editor for blog command and control,  text editing, and interfacing with *git* and *GitHub*.   The [Github Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview) extension pack is  convenient  for  previewing  *GitHub* markdown blog posts while typing
  
-The *VScode* [Docker Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) enables  previewing the  entire *fastpages* blog from any `git` branch. This is a much faster and safer way to view the  blog while writing new  posts, without disturbing the the blog public view.  One can be working on several new blog posts on different `git` branches. When a new blog post is ready for public viewing, merge it with the `git` master branch  and  pushing it to the *GitHub* Repository 
+The *VScode* [Docker Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) enables  previewing the  entire *fastpages* blog from any *git* branch. This is a much faster and safer way to view the  blog while writing new  posts, without disturbing the the blog public view.  One can be working on several new blog posts on different *git* branches. When a new blog post is ready for public viewing, merge it with the *git* master branch  and  pushing it to the *GitHub* Repository 
 
 ## Local Repository
 
-The local repository contains a copy the *GitHub* repository. Contents are edited using *VScode*. The *GitHub* repository is not directly updated. It is updated after edited files are saved, staged, a message is added, and pushed  to the *GitHub* repository
+The local repository contains a copy the *GitHub* repository. Contents are edited using *VScode*. The *GitHub* repository is not directly modified. It is modified after edited files are saved, staged, a message is added, and pushed  to the *GitHub* repository
 
-One can use the built-in *VScode* terminal to manually update the *GitHub* repository with the updated files in the local repository. The `git add` command stages the edited  files.  The ``git commit -m "message"`` command adds the "why" message. The `git push` command pushes the edited files to the *GitHub* repository. I prefer using the *VScode* built-in *git* interface.  It is quicker to push file changes. Microsoft owns both *GitHub* and *VScode*
+One can use the built-in *VScode* terminal to manually update the *GitHub* repository with the modified files in the local repository. 
 
-The local repository is updated with the `git pull` command. It ensures the local repository is  up to date with the *GitHub* repository
+    git add
+    git commit -m "message
+    git push
+
+The *git add* command stages the edited  files  
+The *git commit -m "message"* command adds the "why" message  
+The *git push* command pushes the edited files to the *GitHub* repository
+
+I prefer using the *VScode* built-in *git* interface.  It is quicker to *git push* modified files. Microsoft owns both *GitHub* and *VScode*, so I think the odds are they work well together
+
+The local repository is modified with the *git pull* command. It ensures the local repository is  up to date with the *GitHub* repository
 
 ## GitHub Chain
 
