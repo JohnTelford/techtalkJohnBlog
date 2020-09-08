@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/techtalkJohnBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="/techtalkJohnBlog/" rel="alternate" type="text/html" /><updated>2020-09-08T02:10:09-05:00</updated><id>/techtalkJohnBlog/feed.xml</id><title type="html">Tech Talk Blog</title><subtitle>An Opinionated Tech Talk Blog</subtitle><entry><title type="html">Fastpages</title><link href="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/07/Fastpages.html" rel="alternate" type="text/html" title="Fastpages" /><published>2020-09-07T00:00:00-05:00</published><updated>2020-09-07T00:00:00-05:00</updated><id>/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/07/Fastpages</id><content type="html" xml:base="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/07/Fastpages.html">&lt;!-- /techtalkJohnBlog --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/techtalkJohnBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="/techtalkJohnBlog/" rel="alternate" type="text/html" /><updated>2020-09-08T14:06:53-05:00</updated><id>/techtalkJohnBlog/feed.xml</id><title type="html">Tech Talk Blog</title><subtitle>An Opinionated Tech Talk Blog</subtitle><entry><title type="html">Fastpages</title><link href="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/07/Fastpages.html" rel="alternate" type="text/html" title="Fastpages" /><published>2020-09-07T00:00:00-05:00</published><updated>2020-09-07T00:00:00-05:00</updated><id>/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/07/Fastpages</id><content type="html" xml:base="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/07/Fastpages.html">&lt;!-- /techtalkJohnBlog --&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Warning: Work in Progress!&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;This is an opinionated technology blog. Posts are about technologies that are interesting to me&lt;/p&gt;
+  &lt;p&gt;This is an opinionated technology blog about technologies of interest to me&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Since the early days of the Internet, I have built  blogs from scratch or used   blog technology du jour. This blog is built using &lt;a href=&quot;https://fastpages.fast.ai&quot;&gt;fastpages&lt;/a&gt;, a tool in &lt;a href=&quot;https://www.fast.ai/&quot;&gt;fast.ai&lt;/a&gt;’s tool kit&lt;/p&gt;
@@ -77,7 +77,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://code.visualstudio.com&quot;&gt;VScode&lt;/a&gt; is  my go-to editor for blog command and control,  text editing, and interfacing with &lt;code class=&quot;highlighter-rouge&quot;&gt;git&lt;/code&gt; and &lt;em&gt;GitHub&lt;/em&gt;.   The &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview&quot;&gt;Github Markdown Preview&lt;/a&gt; extension pack is  convenient  for  previewing  &lt;em&gt;GitHub&lt;/em&gt; markdown blog posts while typing&lt;/p&gt;
 
-&lt;p&gt;The &lt;em&gt;VScode&lt;/em&gt; &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker&quot;&gt;Docker Extension&lt;/a&gt; enables  previewing the  entire &lt;em&gt;fastpages&lt;/em&gt; blog. This is a much faster way to see  blog changes than pushing them to the &lt;em&gt;GitHub&lt;/em&gt; Repository&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;VScode&lt;/em&gt; &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker&quot;&gt;Docker Extension&lt;/a&gt; enables  previewing the  entire &lt;em&gt;fastpages&lt;/em&gt; blog from any &lt;code class=&quot;highlighter-rouge&quot;&gt;git&lt;/code&gt; branch. This is a much faster and safer way to view the  blog while writing new  posts, without disturbing the the blog public view.  One can be working on several new blog posts on different &lt;code class=&quot;highlighter-rouge&quot;&gt;git&lt;/code&gt; branches. When a new blog post is ready for public viewing, merge it with the &lt;code class=&quot;highlighter-rouge&quot;&gt;git&lt;/code&gt; master branch  and  pushing it to the &lt;em&gt;GitHub&lt;/em&gt; Repository&lt;/p&gt;
 
 &lt;h2 id=&quot;local-repository&quot;&gt;Local Repository&lt;/h2&gt;
 
