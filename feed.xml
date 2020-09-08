@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/techtalkJohnBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="/techtalkJohnBlog/" rel="alternate" type="text/html" /><updated>2020-09-07T19:56:51-05:00</updated><id>/techtalkJohnBlog/feed.xml</id><title type="html">Tech Talk Blog</title><subtitle>An Opinionated Tech Talk Blog</subtitle><entry><title type="html">Tech Talk Blog</title><link href="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2.html" rel="alternate" type="text/html" title="Tech Talk Blog" /><published>2020-09-03T00:00:00-05:00</published><updated>2020-09-03T00:00:00-05:00</updated><id>/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2</id><content type="html" xml:base="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2.html">&lt;!-- /techtalkJohnBlog --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/techtalkJohnBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="/techtalkJohnBlog/" rel="alternate" type="text/html" /><updated>2020-09-07T20:06:05-05:00</updated><id>/techtalkJohnBlog/feed.xml</id><title type="html">Tech Talk Blog</title><subtitle>An Opinionated Tech Talk Blog</subtitle><entry><title type="html">Tech Talk Blog</title><link href="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2.html" rel="alternate" type="text/html" title="Tech Talk Blog" /><published>2020-09-03T00:00:00-05:00</published><updated>2020-09-03T00:00:00-05:00</updated><id>/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2</id><content type="html" xml:base="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/03/TEST2.html">&lt;!-- /techtalkJohnBlog --&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Warning: Work in Progress!&lt;/p&gt;
@@ -8,7 +8,7 @@
   &lt;p&gt;This is an opinionated technology blog. Posts are about technologies that are interesting to me&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Since the early days of the Internet, I have built  blogs from scratch or used   blog technology du jour. This blog is built using &lt;a href=&quot;https://fastpages.fast.ai&quot;&gt;fastpages&lt;/a&gt;. It is a tool in &lt;a href=&quot;https://www.fast.ai/&quot;&gt;fast.ai&lt;/a&gt;’s tool kit&lt;/p&gt;
+&lt;p&gt;Since the early days of the Internet, I have built  blogs from scratch or used   blog technology du jour. This blog is built using &lt;a href=&quot;https://fastpages.fast.ai&quot;&gt;fastpages&lt;/a&gt;, a tool in &lt;a href=&quot;https://www.fast.ai/&quot;&gt;fast.ai&lt;/a&gt;’s tool kit&lt;/p&gt;
 
 &lt;h2 id=&quot;synopsis&quot;&gt;Synopsis&lt;/h2&gt;
 
@@ -39,7 +39,7 @@
 
 &lt;p&gt;“Git”, “GitHub”, and “GitHub Pages” are integral to “fastpages”. “Fastpages” relies on “GitHub” for hosting the blog repository, “Github Pages” to compile and deploy the blog, and  “Github Actions”  for  blog creation  automation&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://git-scm.com&quot;&gt;Git&lt;/a&gt; is a key structural component. It is a distributed version control system designed to track changes in a project’s files. It helps answering the questions: Who Changed What, Where, When, and Why?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://git-scm.com&quot;&gt;Git&lt;/a&gt; is a key structural component. It is a distributed version control system designed to track project file changes. It helps answering the questions: Who Changed What, Where, When, and Why?&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt; is an online platform for hosting  versions of most any type of file.  “GitHub” as a platform for storing files in a remote repository. It comes with tools for project collaboration&lt;/p&gt;
 
@@ -71,7 +71,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://code.visualstudio.com&quot;&gt;VScode&lt;/a&gt; is  my go-to editor for blog command and control,  text editing, and interfacing with “git” and “GitHub”.   The &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview&quot;&gt;Github Markdown Preview&lt;/a&gt; extension pack is  convenient  for  previewing  “GitHub” markdown blog posts while typing&lt;/p&gt;
 
-&lt;p&gt;The “VScode” &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker&quot;&gt;Docker Extension&lt;/a&gt; enables  previewing the  entire fastpages blog. This is a much faster way of seeing  blog changes than pushing them to the “GitHub” Repository&lt;/p&gt;
+&lt;p&gt;The “VScode” &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker&quot;&gt;Docker Extension&lt;/a&gt; enables  previewing the  entire “fastpages” blog. This is a much faster way of seeing  blog changes than pushing them to the “GitHub” Repository&lt;/p&gt;
 
 &lt;h2 id=&quot;local-repository&quot;&gt;Local Repository&lt;/h2&gt;
 
