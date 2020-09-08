@@ -69,7 +69,7 @@ The diagram illustrates  creating blog posts from editing to deploying blogs
 
 [Fastpages](https://fastpages.fast.ai) supports creating blog post using [Jupyter Notebooks](https://fastpages.fast.ai),  [Markdown](https://guides.github.com/features/mastering-markdown/), and Microsoft Word
 
-*Fastpages* uses [GitHub Pages](https://pages.github.com) to create and deploy blogs. It uses [GitHub Markdown](https://guides.*GitHub*.com/features/mastering-markdown/) for  blog post text. It has some features that other markdown dialects may not have, like commenting out lines of markdown, and supporting embedding HTML
+*Fastpages* uses [GitHub Pages](https://pages.github.com) to create and deploy blogs. It uses [GitHub Flavored Markdown](https://github.github.com/gfm) for  blog post text. It has some features that other markdown dialects may not have, like commenting out lines of markdown, and supporting embedding HTML
 
 ## VScode
 
@@ -81,7 +81,7 @@ The *VScode* [Docker Extension](https://marketplace.visualstudio.com/items?itemN
 
 The local repository contains a copy the *GitHub* repository. Contents are edited using *VScode*. The *GitHub* repository is not directly updated. It is updated after edited files are saved, staged, a message is added, and pushed  to the *GitHub* repository
 
-One can use the built-in *VScode* terminal to manually update the *GitHub* repository with the updated files in the local repository. The `git add` command stages the edited  files.  The `git commit -m "message"` command adds the "why" message. The `git push` command pushes the edited files to the *GitHub* repository. I prefer using the *VScode* built-in *git* interface.  It is quicker to push file changes. Microsoft owns both *GitHub* and *VScode*
+One can use the built-in *VScode* terminal to manually update the *GitHub* repository with the updated files in the local repository. The `git add` command stages the edited  files.  The ``git commit -m "message"`` command adds the "why" message. The `git push` command pushes the edited files to the *GitHub* repository. I prefer using the *VScode* built-in *git* interface.  It is quicker to push file changes. Microsoft owns both *GitHub* and *VScode*
 
 The local repository is updated with the `git pull` command. It ensures the local repository is  up to date with the *GitHub* repository
 
