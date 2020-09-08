@@ -37,7 +37,9 @@ My experience installing and using *fastpages* was worth while. I have learned t
 ## Git
 
 {::comment}
+
 ## Git, GitHub, GitHub Pages, GitHub Actions
+
 {:/comment}
 
 *Git*, *GitHub*, and *GitHub Pages* are integral to *fastpages*. It relies on *git* to  push file changes to the blog *GitHub*  repository , *GitHub Pages* to compile and deploy the blog, and  *GitHub Actions*  for  blog creation  automation
