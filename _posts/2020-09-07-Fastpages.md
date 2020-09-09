@@ -81,9 +81,9 @@ The diagram illustrates  creating blog posts from editing to deploying blogs
 
 [VScode](https://code.visualstudio.com) is  my go-to editor for blog command and control,  text editing, and interfacing with *git* and *GitHub*.   The [Github Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview) extension pack is  convenient  for  previewing  *GitHub* markdown blog posts while editing
  
-The *VScode* [Docker Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) uses [Docker](https://www.docker.com).  It  enables  previewing the  entire *fastpages* blog from any *git* branch. This is a much faster and safer way to view the  blog while writing new  posts, without disturbing the the blog public view.  One can be working on several new blog posts on different *git* branches, and quickly review the blog posts branch. This is possible because the extension has a web server. When a new blog post is ready for public viewing, merge it with the *git* master branch  and  pushing it to the *GitHub* Repository and update the public view. 
+The *VScode* [Docker Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) uses [Docker](https://www.docker.com).  It  enables  previewing the  entire *fastpages* blog from any *git* branch with out a *git push*. This is a much faster and safer way to view the  blog while writing   posts, without disturbing the the blog public view.  One can be working on several  blog posts on different *git* branches, and quickly review a branch blog posts. This is possible because the extension has a web server. When a new blog post is ready for public viewing, merge it with the *git* master branch  and  pushing it to the *GitHub* Repository and update the public view. 
 
-So, with *VScode* extensions one can preview *GitHub* markdown blog posts while editing,  be working on several new blog posts on different *git* branches, and quickly view the blog changes with a browser.
+So, with *VScode* extensions one can preview *GitHub* markdown blog posts while editing,  be working on several  blog posts on different *git* branches, and quickly view  blog changes with a browser.
  
 ## Local Repository
 
