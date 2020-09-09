@@ -44,9 +44,9 @@ My experience installing and using *fastpages* was worth while. I have learned t
 
 *Git*, *GitHub*, and *GitHub Pages* are integral to *fastpages*. It relies on *git* to  push file changes to the blog *GitHub*  repository , *GitHub Pages* to compile and deploy the blog, and  *GitHub Actions*  for  blog creation  automation
 
-[Git](https://git-scm.com) is a key structural component. It is a distributed version control system designed to track project file changes. It helps answering the questions: Who Changed What, Where, When, and Why? *Git* is responsible for everything *GitHub*-related that happens  on the editing computer.
+[Git](https://git-scm.com) is a key structural component. It is a distributed version control system designed to track project file changes. It helps answering the questions: Who Changed What, Where, When, and Why? *Git* is responsible for everything *GitHub*-related that happens  on the local computer.
 
-[GitHub](https://github.com) is an online platform for hosting  versions of most any type of file.  *GitHub* is a platform for storing files in a remote repository that is a unified source of truth
+[GitHub](https://github.com) is an online platform for hosting  versions of most  type of files.  *GitHub* is a platform for storing files in a remote repository that is a unified source of truth
 
 [Git Hub Pages](https://pages.github.com) creates and deploys public web pages 
 
