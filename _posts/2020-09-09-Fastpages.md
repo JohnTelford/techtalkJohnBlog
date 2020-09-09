@@ -12,7 +12,7 @@ categories: [Blog, VScode, git, GitHub, Fastpages, GitHub Pages]
 {{site.baseurl}}
 {:/comment}
 
-Updated: 
+Updated: {{ post.date }}
 
 > Warning: Work in Progress!
 
@@ -77,7 +77,7 @@ The diagram illustrates  creating blog posts from editing to deploying blogs
 
 [Fastpages](https://fastpages.fast.ai) supports creating blog post using [Jupyter Notebooks](https://fastpages.fast.ai),  [Markdown](https://guides.github.com/features/mastering-markdown/), and Microsoft Word
 
-*Fastpages* uses [GitHub Pages](https://pages.github.com) to create and deploy blogs. It uses [GitHub Flavored Markdown](https://github.github.com/gfm) for  blog post text. It has some features that other markdown dialects may not have, like commenting out lines of markdown, and supporting embedding HTML
+*Fastpages* uses [GitHub Pages](https://pages.github.com) to create and deploy blogs. It uses [GitHub Flavored Markdown](https://github.github.com/gfm) for  editing blog post text. *Fastpages* can be configured to use [kramdown](https://kramdown.gettalong.org/syntax.html#images). It adds features  other markdown dialects may not have, like commenting out lines of markdown, and supporting embedding HTML
 
 ## VScode
 
