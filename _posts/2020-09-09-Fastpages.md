@@ -81,7 +81,7 @@ The diagram illustrates  creating blog posts from editing to deploying blogs
 
 ## VScode
 
-[VScode](https://code.visualstudio.com) is  my go-to editor for blog command and control,  text editing, and interfacing with *git* and *GitHub*.    *VScode* extensions provide *GitHub* markdown blog posts while editing,   working on several  blog posts on different *git* branches, and quickly viewing the blog changes  a browser.
+[VScode](https://code.visualstudio.com) is  my go-to editor for blog command and control,  text editing, and interfacing with *git* and *GitHub*.    *VScode* extensions provides viewing *GitHub* markdown blog posts while editing,   editing several  blog posts on different *git* branches, and quickly viewing  blog changes  a browser.
 
 The [Github Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview) extension pack is  convenient  for  previewing  *GitHub* markdown blog posts while editing
  
