@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/techtalkJohnBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="/techtalkJohnBlog/" rel="alternate" type="text/html" /><updated>2020-09-09T19:53:46-05:00</updated><id>/techtalkJohnBlog/feed.xml</id><title type="html">Tech Talk Blog</title><subtitle>An Opinionated Tech Talk Blog</subtitle><entry><title type="html">Fastpages</title><link href="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/09/Fastpages.html" rel="alternate" type="text/html" title="Fastpages" /><published>2020-09-09T00:00:00-05:00</published><updated>2020-09-09T00:00:00-05:00</updated><id>/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/09/Fastpages</id><content type="html" xml:base="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/09/Fastpages.html">&lt;!-- /techtalkJohnBlog --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/techtalkJohnBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="/techtalkJohnBlog/" rel="alternate" type="text/html" /><updated>2020-09-10T14:57:52-05:00</updated><id>/techtalkJohnBlog/feed.xml</id><title type="html">Tech Talk Blog</title><subtitle>An Opinionated Tech Talk Blog</subtitle><entry><title type="html">Fastpages</title><link href="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/09/Fastpages.html" rel="alternate" type="text/html" title="Fastpages" /><published>2020-09-09T00:00:00-05:00</published><updated>2020-09-09T00:00:00-05:00</updated><id>/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/09/Fastpages</id><content type="html" xml:base="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/09/Fastpages.html">&lt;!-- /techtalkJohnBlog --&gt;
 
 &lt;p&gt;Updated:&lt;/p&gt;
 
@@ -29,6 +29,9 @@
       &lt;/li&gt;
       &lt;li&gt;
         &lt;p&gt;Experience using &lt;em&gt;GitHub&lt;/em&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Experience using &lt;em&gt;Markdown&lt;/em&gt;&lt;/p&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -63,6 +66,8 @@
 
 &lt;p&gt;&lt;a href=&quot;http://jmcglone.com/guides/github-pages/&quot;&gt;Creating and Hosting a Personal Site on GitHub&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://spec.commonmark.org/0.29/#links&quot;&gt;CommonMark Spec&lt;/a&gt; Numerous examples of Markdown elements with “Try It” buttons&lt;/p&gt;
+
 &lt;h1 id=&quot;from-edits-to-web-blog&quot;&gt;From Edits to Web Blog&lt;/h1&gt;
 
 &lt;!-- 
@@ -85,11 +90,11 @@ The diagram illustrates  creating blog posts from editing to deploying blogs
 
 &lt;h2 id=&quot;vscode&quot;&gt;VScode&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://code.visualstudio.com&quot;&gt;VScode&lt;/a&gt; is  my go-to editor for blog command and control,  text editing, and interfacing with &lt;em&gt;git&lt;/em&gt; and &lt;em&gt;GitHub&lt;/em&gt;.    &lt;em&gt;VScode&lt;/em&gt; extensions provides viewing &lt;em&gt;GitHub&lt;/em&gt; markdown blog posts while editing,   editing several  blog posts on different &lt;em&gt;git&lt;/em&gt; branches, and quickly viewing  blog changes  a browser.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://code.visualstudio.com&quot;&gt;VScode&lt;/a&gt; is  my go-to editor for blog command and control,  text editing, and interfacing with &lt;em&gt;git&lt;/em&gt; and &lt;em&gt;GitHub&lt;/em&gt;.    &lt;em&gt;VScode&lt;/em&gt; extensions provides viewing &lt;em&gt;GitHub&lt;/em&gt; markdown blog posts while editing,   editing several  blog posts on different &lt;em&gt;git&lt;/em&gt; branches, and quickly viewing  blog changes with a browser.&lt;/p&gt;
 
 &lt;p&gt;The &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview&quot;&gt;Github Markdown Preview&lt;/a&gt; extension pack is  convenient  for  previewing  &lt;em&gt;GitHub&lt;/em&gt; markdown blog posts while editing&lt;/p&gt;
 
-&lt;p&gt;The &lt;em&gt;VScode&lt;/em&gt; &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker&quot;&gt;Docker Etension&lt;/a&gt; uses &lt;a href=&quot;https://www.docker.com&quot;&gt;Docker&lt;/a&gt;.  It  enables  previewing the  entire &lt;em&gt;fastpages&lt;/em&gt; blog of any &lt;em&gt;git&lt;/em&gt; branch without a &lt;em&gt;git push&lt;/em&gt;. This is a much faster and safer way to view the  blog while writing   posts, without disturbing the the blog public view.  One can edit  several  blog posts in different &lt;em&gt;git&lt;/em&gt; branches, and quickly review   them. This is possible because the extension has a web server. When a  blog post is ready for public view, merge the  &lt;em&gt;git&lt;/em&gt; branch with the master branch,  and push it to the &lt;em&gt;GitHub&lt;/em&gt; Repository for  public viewing.&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;VScode&lt;/em&gt; &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker&quot;&gt;Docker Etension&lt;/a&gt; uses &lt;a href=&quot;https://www.docker.com&quot;&gt;Docker&lt;/a&gt;.  It  enables  previewing the  entire &lt;em&gt;fastpages&lt;/em&gt; blog of any &lt;em&gt;git&lt;/em&gt; branch without a &lt;em&gt;git push&lt;/em&gt;. This is a much faster and safer way to view the  blog while writing   posts, without disturbing the the blog public view.  One can edit  several  blog posts in different &lt;em&gt;git&lt;/em&gt; branches, and quickly review   them. This is possible because the extension has a web server. When a  blog posts are ready for public view, merge the  &lt;em&gt;git&lt;/em&gt; branch where they were edited with the master branch,  and push it to the &lt;em&gt;GitHub&lt;/em&gt; Repository for  public viewing.&lt;/p&gt;
 
 &lt;h2 id=&quot;local-repository&quot;&gt;Local Repository&lt;/h2&gt;
 
