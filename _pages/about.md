@@ -47,22 +47,23 @@ Mainstream adoption starts to take off.
 
 The few technologies that make it to the Plateau of Productivity may be doomed  to the spiral of death by inattention to details of keeping them alive
 
+---
+
 # Author
 
 I am an Electronics and Software Engineer specializing in web architecture, development, deployment, and maintenance
 
 ## Contact
 
-![]({{site.baseurl}}/images/mugShot.png ){:align="left"}
-
 {::comment}
+
+![]({{site.baseurl}}/images/mugShot.png ){:align="left"}
 
 <img align="left" src="{{site.baseurl}}/images/mugShot.png" />
  <br>
  <br>
  <br>
 
-{:/comment}
 
  <br>
  <br>
@@ -73,3 +74,10 @@ Portland, Oregon
 <br>
 © 2020. Built with [fastpages](https://fastpages.fast.ai)
 
+{:/comment}
+
+| ![]({{site.baseurl}}/images/mugShot.png ){:align="left"}
+
+John at johntelford dot com  
+Portland, Oregon  
+© 2020. Built with [fastpages](https://fastpages.fast.ai)
