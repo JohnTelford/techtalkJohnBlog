@@ -16,16 +16,17 @@ These industries are probably the fastest changing endeavors mankind has ever cr
 
 The Hype Cycle helps separate fiction and reality.
 
-{::comment}
 ![]({{site.baseurl}}/images/HypeCycle.png )
-{:/comment}
 
+{::comment}
 
 <img  src="{{site.baseurl}}/images/HypeCycle.png" />
 
 <p style="text-align: center;">
     <em>Hype Cycle</em>
 </p>
+
+{:/comment}
 
 The  Hype Cycle points of interest   are:
 
@@ -52,14 +53,23 @@ I am an Electronics and Software Engineer specializing in web architecture, deve
 
 ## Contact
 
+![]({{site.baseurl}}/images/mugShot.png ){:align="left"}
+
+{::comment}
+
 <img align="left" src="{{site.baseurl}}/images/mugShot.png" />
  <br>
  <br>
  <br>
 
-<em>
-    John at johntelford dot com  
-    Portland, Oregon
-</em>
+{:/comment}
 
+ <br>
+ <br>
+<br>
+John at johntelford dot com 
+<br>
+Portland, Oregon
+<br>
 © 2020. Built with [fastpages](https://fastpages.fast.ai)
+

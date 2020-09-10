@@ -64,14 +64,19 @@ My experience installing and using *fastpages* was worth while. I have learned t
 
 # From Edits to Web Blog
 
-The diagram illustrates  creating blog posts from editing to deploying blogs
+{::comment}
 
+The diagram illustrates  creating blog posts from editing to deploying blogs
 
 <img  src="{{site.baseurl}}/images/Fastpages.png" />
 
 <p style="text-align: center;">
     <em>A Process for Creating Fastpages Posts</em>
 </p>
+
+{:/comment}
+
+![]({{site.baseurl}}/images/Fastpages.png 'A Process for Creating Fastpages Blog Posts'){: height=100px}
 
 ## Fastpages Posts
 
