@@ -32,6 +32,8 @@ How fitting.  The first blog post is about the blog
 
     - Experience using *GitHub*
 
+    - Experience using *Markdown*
+
 - The documentation is a guide, not step by step
 
 My experience installing and using *fastpages* was worth while. I have learned things too
@@ -62,6 +64,9 @@ My experience installing and using *fastpages* was worth while. I have learned t
 
 [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
 
+[CommonMark Spec](https://spec.commonmark.org/0.29/#links) Numerous examples of Markdown elements with "Try It" buttons
+
+
 # From Edits to Web Blog
 
 {::comment}
@@ -86,11 +91,11 @@ The diagram illustrates  creating blog posts from editing to deploying blogs
 
 ## VScode
 
-[VScode](https://code.visualstudio.com) is  my go-to editor for blog command and control,  text editing, and interfacing with *git* and *GitHub*.    *VScode* extensions provides viewing *GitHub* markdown blog posts while editing,   editing several  blog posts on different *git* branches, and quickly viewing  blog changes  a browser.
+[VScode](https://code.visualstudio.com) is  my go-to editor for blog command and control,  text editing, and interfacing with *git* and *GitHub*.    *VScode* extensions provides viewing *GitHub* markdown blog posts while editing,   editing several  blog posts on different *git* branches, and quickly viewing  blog changes with a browser.
 
 The [Github Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview) extension pack is  convenient  for  previewing  *GitHub* markdown blog posts while editing
  
-The *VScode* [Docker Etension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) uses [Docker](https://www.docker.com).  It  enables  previewing the  entire *fastpages* blog of any *git* branch without a *git push*. This is a much faster and safer way to view the  blog while writing   posts, without disturbing the the blog public view.  One can edit  several  blog posts in different *git* branches, and quickly review   them. This is possible because the extension has a web server. When a  blog post is ready for public view, merge the  *git* branch with the master branch,  and push it to the *GitHub* Repository for  public viewing. 
+The *VScode* [Docker Etension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) uses [Docker](https://www.docker.com).  It  enables  previewing the  entire *fastpages* blog of any *git* branch without a *git push*. This is a much faster and safer way to view the  blog while writing   posts, without disturbing the the blog public view.  One can edit  several  blog posts in different *git* branches, and quickly review   them. This is possible because the extension has a web server. When a  blog posts are ready for public view, merge the  *git* branch where they were edited with the master branch,  and push it to the *GitHub* Repository for  public viewing. 
 
 ## Local Repository
 
