@@ -22,6 +22,8 @@ Since the early days of the Internet, I have built  blogs from scratch or used  
 
 How fitting.  The first blog post is about the blog
 
+{::comment}
+
 ## Synopsis
 
 -  *fastpages* is not plug and play
@@ -40,11 +42,6 @@ My experience installing and using *fastpages* was worth while. I have learned t
 
 ## Git
 
-{::comment}
-
-## Git, GitHub, GitHub Pages, GitHub Actions
-
-{:/comment}
 
 *Git*, *GitHub*, and *GitHub Pages* are integral to *fastpages*. It relies on *git* to  push file changes to the blog *GitHub*  repository , *GitHub Pages* to compile and deploy the blog, and  *GitHub Actions*  for  blog creation  automation
 
@@ -65,6 +62,52 @@ My experience installing and using *fastpages* was worth while. I have learned t
 [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
 
 [CommonMark Spec](https://spec.commonmark.org/0.29/#links) Numerous examples of Markdown elements with "Try It" buttons
+
+{:/comment}
+
+## Synopsis
+
+*Fastpages* is not plug and play.  Some assembly is required. It is helpful to have some experience with
+
+- *Markdown*
+- *Git*
+- *GitHub*
+- *GitHub Pages*
+
+These technologies are integral to *fastpages*. It relies on *Markdown* for editing blog posts, *git* for pushing   blog edits  from the local repository to the *GitHub*  remote repository, and *GitHub Pages* to compile and deploy the blog
+
+### Markdown
+
+Markdown is a plain text format for writing structured documents. What distinguishes Markdown from many other lightweight markup syntaxes is  readability. 
+
+*Fastpages* can be configured to use [kramdown](https://kramdown.gettalong.org/syntax.html#images). It adds features  other markdown dialects may not have, like commenting out lines of markdown, and supporting embedding HTML
+
+### *Git*  
+
+[Git](https://git-scm.com) is a key structural component. It is a distributed version control system designed to track project file changes.  *Git* is responsible for everything *GitHub*-related that happens  the local computer. It helps answering the questions: Who Changed What, Where, When, and Why? Changes can be backed out  when necessary
+
+
+### *GitHub*
+
+[GitHub](https://github.com) is an online platform for hosting  versions of most  type of files in a remote repository that is a unified source of truth. 
+
+ [Git Hub Pages](https://pages.github.com) creates and deploys public web pages 
+
+
+### Some Helpful Resources
+
+[CommonMark Spec](https://spec.commonmark.org/0.29/#links) 
+This document specifies Markdown syntax unambiguously. It contains many examples,  with side-by-side Markdown and HTML, and   with "Try It" buttons
+
+[Set up Git](https://docs.github.com/en/github/getting-started-with-github/set-up-git) *Git* is responsible for everything *GitHub*-related that happens locally on your computer
+
+[Getting started with GitHub](https://docs.github.com/en/github/getting-started-with-github)
+
+[Git and GitHub in a Nutshell: ](https://dev.to/educative/git-and-github-in-a-nutshell-definitive-tutorial-for-beginners-2i05) Definitive tutorial for beginners
+
+[Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
+
+
 
 
 # From Edits to Web Blog
