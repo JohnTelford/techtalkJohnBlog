@@ -114,6 +114,7 @@ This document specifies Markdown syntax unambiguously. It contains many examples
 
 {::comment}
 
+
 The diagram illustrates  creating blog posts from editing to deploying blogs
 
 <img  src="{{site.baseurl}}/images/Fastpages.png" />
