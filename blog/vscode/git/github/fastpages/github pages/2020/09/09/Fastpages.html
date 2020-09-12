@@ -105,7 +105,7 @@ window.onload = wrap_img;
        • <span class="read-time" title="Estimated read time">
     
     
-      3 min read
+      4 min read
     
 </span></p>
 
@@ -137,9 +137,11 @@ window.onload = wrap_img;
 
   <div class="post-content e-content" itemprop="articleBody">
     <ul class="section-nav">
-<li class="toc-entry toc-h2"><a href="#synopsis">Synopsis</a></li>
-<li class="toc-entry toc-h2"><a href="#git">Git</a>
+<li class="toc-entry toc-h2"><a href="#synopsis">Synopsis</a>
 <ul>
+<li class="toc-entry toc-h3"><a href="#markdown">Markdown</a></li>
+<li class="toc-entry toc-h3"><a href="#git">Git</a></li>
+<li class="toc-entry toc-h3"><a href="#github">GitHub</a></li>
 <li class="toc-entry toc-h3"><a href="#some-helpful-resources">Some Helpful Resources</a></li>
 </ul>
 </li>
@@ -167,62 +169,95 @@ window.onload = wrap_img;
 
 <p>How fitting.  The first blog post is about the blog</p>
 
+<!-- 
+## Synopsis
+
+-  *fastpages* is not plug and play
+
+- It requires:
+
+    - Experience using *git*
+
+    - Experience using *GitHub*
+
+    - Experience using *Markdown*
+
+- The documentation is a guide, not step by step
+
+My experience installing and using *fastpages* was worth while. I have learned things too
+
+## Git
+
+
+*Git*, *GitHub*, and *GitHub Pages* are integral to *fastpages*. It relies on *git* to  push file changes to the blog *GitHub*  repository , *GitHub Pages* to compile and deploy the blog, and  *GitHub Actions*  for  blog creation  automation
+
+[Git](https://git-scm.com) is a key structural component. It is a distributed version control system designed to track project file changes. It helps answering the questions: Who Changed What, Where, When, and Why? *Git* is responsible for everything *GitHub*-related that happens  on the local computer.
+
+[GitHub](https://github.com) is an online platform for hosting  versions of most  type of files.  *GitHub* is a platform for storing files in a remote repository that is a unified source of truth
+
+[Git Hub Pages](https://pages.github.com) creates and deploys public web pages 
+
+### Some Helpful Resources
+
+[Set up Git](https://docs.github.com/en/github/getting-started-with-github/set-up-git)
+
+[Getting started with GitHub](https://docs.github.com/en/github/getting-started-with-github)
+
+[Git and GitHub in a Nutshell: ](https://dev.to/educative/git-and-github-in-a-nutshell-definitive-tutorial-for-beginners-2i05) Definitive tutorial for beginners
+
+[Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
+
+[CommonMark Spec](https://spec.commonmark.org/0.29/#links) Numerous examples of Markdown elements with "Try It" buttons
+ -->
+
 <h2 id="synopsis">
 <a class="anchor" href="#synopsis" aria-hidden="true"><span class="octicon octicon-link"></span></a>Synopsis</h2>
 
-<ul>
-  <li>
-    <p><em>fastpages</em> is not plug and play</p>
-  </li>
-  <li>
-    <p>It requires:</p>
+<p><em>Fastpages</em> is not plug and play.  Some assembly is required. It is helpful to have some experience with</p>
 
-    <ul>
-      <li>
-        <p>Experience using <em>git</em></p>
-      </li>
-      <li>
-        <p>Experience using <em>GitHub</em></p>
-      </li>
-      <li>
-        <p>Experience using <em>Markdown</em></p>
-      </li>
-    </ul>
-  </li>
-  <li>
-    <p>The documentation is a guide, not step by step</p>
-  </li>
+<ul>
+  <li><em>Markdown</em></li>
+  <li><em>Git</em></li>
+  <li><em>GitHub</em></li>
+  <li><em>GitHub Pages</em></li>
 </ul>
 
-<p>My experience installing and using <em>fastpages</em> was worth while. I have learned things too</p>
+<p>These technologies are integral to <em>fastpages</em>. It relies on <em>Markdown</em> for editing blog posts, <em>git</em> for pushing   blog edits  from the local repository to the <em>GitHub</em>  remote repository, and <em>GitHub Pages</em> to compile and deploy the blog</p>
 
-<h2 id="git">
-<a class="anchor" href="#git" aria-hidden="true"><span class="octicon octicon-link"></span></a>Git</h2>
+<h3 id="markdown">
+<a class="anchor" href="#markdown" aria-hidden="true"><span class="octicon octicon-link"></span></a>Markdown</h3>
 
-<!-- 
-## Git, GitHub, GitHub Pages, GitHub Actions
- -->
+<p>Markdown is a plain text format for writing structured documents. What distinguishes Markdown from many other lightweight markup syntaxes is  readability.</p>
 
-<p><em>Git</em>, <em>GitHub</em>, and <em>GitHub Pages</em> are integral to <em>fastpages</em>. It relies on <em>git</em> to  push file changes to the blog <em>GitHub</em>  repository , <em>GitHub Pages</em> to compile and deploy the blog, and  <em>GitHub Actions</em>  for  blog creation  automation</p>
+<p><em>Fastpages</em> can be configured to use <a href="https://kramdown.gettalong.org/syntax.html#images">kramdown</a>. It adds features  other markdown dialects may not have, like commenting out lines of markdown, and supporting embedding HTML</p>
 
-<p><a href="https://git-scm.com">Git</a> is a key structural component. It is a distributed version control system designed to track project file changes. It helps answering the questions: Who Changed What, Where, When, and Why? <em>Git</em> is responsible for everything <em>GitHub</em>-related that happens  on the local computer.</p>
+<h3 id="git">
+<a class="anchor" href="#git" aria-hidden="true"><span class="octicon octicon-link"></span></a><em>Git</em>
+</h3>
 
-<p><a href="https://github.com">GitHub</a> is an online platform for hosting  versions of most  type of files.  <em>GitHub</em> is a platform for storing files in a remote repository that is a unified source of truth</p>
+<p><a href="https://git-scm.com">Git</a> is a key structural component. It is a distributed version control system designed to track project file changes.  <em>Git</em> is responsible for everything <em>GitHub</em>-related that happens  on the local computer. It helps answering the questions: Who Changed What, Where, When, and Why? Changes can be backed out  when necessary</p>
+
+<h3 id="github">
+<a class="anchor" href="#github" aria-hidden="true"><span class="octicon octicon-link"></span></a><em>GitHub</em>
+</h3>
+
+<p><a href="https://github.com">GitHub</a> is an online platform for hosting  versions of most  type of files in a remote repository that is a unified source of truth.</p>
 
 <p><a href="https://pages.github.com">Git Hub Pages</a> creates and deploys public web pages</p>
 
 <h3 id="some-helpful-resources">
 <a class="anchor" href="#some-helpful-resources" aria-hidden="true"><span class="octicon octicon-link"></span></a>Some Helpful Resources</h3>
 
-<p><a href="https://docs.github.com/en/github/getting-started-with-github/set-up-git">Set up Git</a></p>
+<p><a href="https://spec.commonmark.org/0.29/#links">CommonMark Spec</a> 
+This document specifies Markdown syntax unambiguously. It contains many examples,  with side-by-side Markdown and HTML, and   with “Try It” buttons</p>
+
+<p><a href="https://docs.github.com/en/github/getting-started-with-github/set-up-git">Set up Git</a> <em>Git</em> is responsible for everything <em>GitHub</em>-related that happens locally on your computer</p>
 
 <p><a href="https://docs.github.com/en/github/getting-started-with-github">Getting started with GitHub</a></p>
 
 <p><a href="https://dev.to/educative/git-and-github-in-a-nutshell-definitive-tutorial-for-beginners-2i05">Git and GitHub in a Nutshell: </a> Definitive tutorial for beginners</p>
 
 <p><a href="http://jmcglone.com/guides/github-pages/">Creating and Hosting a Personal Site on GitHub</a></p>
-
-<p><a href="https://spec.commonmark.org/0.29/#links">CommonMark Spec</a> Numerous examples of Markdown elements with “Try It” buttons</p>
 
 <h1 id="from-edits-to-web-blog">
 <a class="anchor" href="#from-edits-to-web-blog" aria-hidden="true"><span class="octicon octicon-link"></span></a>From Edits to Web Blog</h1>

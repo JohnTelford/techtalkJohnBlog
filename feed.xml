@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/techtalkJohnBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="/techtalkJohnBlog/" rel="alternate" type="text/html" /><updated>2020-09-10T14:57:52-05:00</updated><id>/techtalkJohnBlog/feed.xml</id><title type="html">Tech Talk Blog</title><subtitle>An Opinionated Tech Talk Blog</subtitle><entry><title type="html">Fastpages</title><link href="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/09/Fastpages.html" rel="alternate" type="text/html" title="Fastpages" /><published>2020-09-09T00:00:00-05:00</published><updated>2020-09-09T00:00:00-05:00</updated><id>/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/09/Fastpages</id><content type="html" xml:base="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/09/Fastpages.html">&lt;!-- /techtalkJohnBlog --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/techtalkJohnBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="/techtalkJohnBlog/" rel="alternate" type="text/html" /><updated>2020-09-11T19:54:15-05:00</updated><id>/techtalkJohnBlog/feed.xml</id><title type="html">Tech Talk Blog</title><subtitle>An Opinionated Tech Talk Blog</subtitle><entry><title type="html">Fastpages</title><link href="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/09/Fastpages.html" rel="alternate" type="text/html" title="Fastpages" /><published>2020-09-09T00:00:00-05:00</published><updated>2020-09-09T00:00:00-05:00</updated><id>/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/09/Fastpages</id><content type="html" xml:base="/techtalkJohnBlog/blog/vscode/git/github/fastpages/github%20pages/2020/09/09/Fastpages.html">&lt;!-- /techtalkJohnBlog --&gt;
 
 &lt;p&gt;Updated:&lt;/p&gt;
 
@@ -14,59 +14,88 @@
 
 &lt;p&gt;How fitting.  The first blog post is about the blog&lt;/p&gt;
 
-&lt;h2 id=&quot;synopsis&quot;&gt;Synopsis&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;fastpages&lt;/em&gt; is not plug and play&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;It requires:&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;Experience using &lt;em&gt;git&lt;/em&gt;&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Experience using &lt;em&gt;GitHub&lt;/em&gt;&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Experience using &lt;em&gt;Markdown&lt;/em&gt;&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The documentation is a guide, not step by step&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;My experience installing and using &lt;em&gt;fastpages&lt;/em&gt; was worth while. I have learned things too&lt;/p&gt;
-
-&lt;h2 id=&quot;git&quot;&gt;Git&lt;/h2&gt;
-
 &lt;!-- 
-## Git, GitHub, GitHub Pages, GitHub Actions
+## Synopsis
+
+-  *fastpages* is not plug and play
+
+- It requires:
+
+    - Experience using *git*
+
+    - Experience using *GitHub*
+
+    - Experience using *Markdown*
+
+- The documentation is a guide, not step by step
+
+My experience installing and using *fastpages* was worth while. I have learned things too
+
+## Git
+
+
+*Git*, *GitHub*, and *GitHub Pages* are integral to *fastpages*. It relies on *git* to  push file changes to the blog *GitHub*  repository , *GitHub Pages* to compile and deploy the blog, and  *GitHub Actions*  for  blog creation  automation
+
+[Git](https://git-scm.com) is a key structural component. It is a distributed version control system designed to track project file changes. It helps answering the questions: Who Changed What, Where, When, and Why? *Git* is responsible for everything *GitHub*-related that happens  on the local computer.
+
+[GitHub](https://github.com) is an online platform for hosting  versions of most  type of files.  *GitHub* is a platform for storing files in a remote repository that is a unified source of truth
+
+[Git Hub Pages](https://pages.github.com) creates and deploys public web pages 
+
+### Some Helpful Resources
+
+[Set up Git](https://docs.github.com/en/github/getting-started-with-github/set-up-git)
+
+[Getting started with GitHub](https://docs.github.com/en/github/getting-started-with-github)
+
+[Git and GitHub in a Nutshell: ](https://dev.to/educative/git-and-github-in-a-nutshell-definitive-tutorial-for-beginners-2i05) Definitive tutorial for beginners
+
+[Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
+
+[CommonMark Spec](https://spec.commonmark.org/0.29/#links) Numerous examples of Markdown elements with &quot;Try It&quot; buttons
  --&gt;
 
-&lt;p&gt;&lt;em&gt;Git&lt;/em&gt;, &lt;em&gt;GitHub&lt;/em&gt;, and &lt;em&gt;GitHub Pages&lt;/em&gt; are integral to &lt;em&gt;fastpages&lt;/em&gt;. It relies on &lt;em&gt;git&lt;/em&gt; to  push file changes to the blog &lt;em&gt;GitHub&lt;/em&gt;  repository , &lt;em&gt;GitHub Pages&lt;/em&gt; to compile and deploy the blog, and  &lt;em&gt;GitHub Actions&lt;/em&gt;  for  blog creation  automation&lt;/p&gt;
+&lt;h2 id=&quot;synopsis&quot;&gt;Synopsis&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://git-scm.com&quot;&gt;Git&lt;/a&gt; is a key structural component. It is a distributed version control system designed to track project file changes. It helps answering the questions: Who Changed What, Where, When, and Why? &lt;em&gt;Git&lt;/em&gt; is responsible for everything &lt;em&gt;GitHub&lt;/em&gt;-related that happens  on the local computer.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fastpages&lt;/em&gt; is not plug and play.  Some assembly is required. It is helpful to have some experience with&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt; is an online platform for hosting  versions of most  type of files.  &lt;em&gt;GitHub&lt;/em&gt; is a platform for storing files in a remote repository that is a unified source of truth&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Markdown&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Git&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;GitHub&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;GitHub Pages&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These technologies are integral to &lt;em&gt;fastpages&lt;/em&gt;. It relies on &lt;em&gt;Markdown&lt;/em&gt; for editing blog posts, &lt;em&gt;git&lt;/em&gt; for pushing   blog edits  from the local repository to the &lt;em&gt;GitHub&lt;/em&gt;  remote repository, and &lt;em&gt;GitHub Pages&lt;/em&gt; to compile and deploy the blog&lt;/p&gt;
+
+&lt;h3 id=&quot;markdown&quot;&gt;Markdown&lt;/h3&gt;
+
+&lt;p&gt;Markdown is a plain text format for writing structured documents. What distinguishes Markdown from many other lightweight markup syntaxes is  readability.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Fastpages&lt;/em&gt; can be configured to use &lt;a href=&quot;https://kramdown.gettalong.org/syntax.html#images&quot;&gt;kramdown&lt;/a&gt;. It adds features  other markdown dialects may not have, like commenting out lines of markdown, and supporting embedding HTML&lt;/p&gt;
+
+&lt;h3 id=&quot;git&quot;&gt;&lt;em&gt;Git&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://git-scm.com&quot;&gt;Git&lt;/a&gt; is a key structural component. It is a distributed version control system designed to track project file changes.  &lt;em&gt;Git&lt;/em&gt; is responsible for everything &lt;em&gt;GitHub&lt;/em&gt;-related that happens  on the local computer. It helps answering the questions: Who Changed What, Where, When, and Why? Changes can be backed out  when necessary&lt;/p&gt;
+
+&lt;h3 id=&quot;github&quot;&gt;&lt;em&gt;GitHub&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt; is an online platform for hosting  versions of most  type of files in a remote repository that is a unified source of truth.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://pages.github.com&quot;&gt;Git Hub Pages&lt;/a&gt; creates and deploys public web pages&lt;/p&gt;
 
 &lt;h3 id=&quot;some-helpful-resources&quot;&gt;Some Helpful Resources&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://docs.github.com/en/github/getting-started-with-github/set-up-git&quot;&gt;Set up Git&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://spec.commonmark.org/0.29/#links&quot;&gt;CommonMark Spec&lt;/a&gt; 
+This document specifies Markdown syntax unambiguously. It contains many examples,  with side-by-side Markdown and HTML, and   with “Try It” buttons&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.github.com/en/github/getting-started-with-github/set-up-git&quot;&gt;Set up Git&lt;/a&gt; &lt;em&gt;Git&lt;/em&gt; is responsible for everything &lt;em&gt;GitHub&lt;/em&gt;-related that happens locally on your computer&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://docs.github.com/en/github/getting-started-with-github&quot;&gt;Getting started with GitHub&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://dev.to/educative/git-and-github-in-a-nutshell-definitive-tutorial-for-beginners-2i05&quot;&gt;Git and GitHub in a Nutshell: &lt;/a&gt; Definitive tutorial for beginners&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://jmcglone.com/guides/github-pages/&quot;&gt;Creating and Hosting a Personal Site on GitHub&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://spec.commonmark.org/0.29/#links&quot;&gt;CommonMark Spec&lt;/a&gt; Numerous examples of Markdown elements with “Try It” buttons&lt;/p&gt;
 
 &lt;h1 id=&quot;from-edits-to-web-blog&quot;&gt;From Edits to Web Blog&lt;/h1&gt;
 
