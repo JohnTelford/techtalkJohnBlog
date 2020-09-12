@@ -84,7 +84,7 @@ Markdown is a plain text format for writing structured documents. What distingui
 
 ### *Git*  
 
-[Git](https://git-scm.com) is a key structural component. It is a distributed version control system designed to track project file changes.  *Git* is responsible for everything *GitHub*-related that happens  the local computer. It helps answering the questions: Who Changed What, Where, When, and Why? Changes can be backed out  when necessary
+[Git](https://git-scm.com) is a key structural component. It is a distributed version control system designed to track project file changes.  *Git* is responsible for everything *GitHub*-related that happens  on the local computer. It helps answering the questions: Who Changed What, Where, When, and Why? Changes can be backed out  when necessary
 
 
 ### *GitHub*
